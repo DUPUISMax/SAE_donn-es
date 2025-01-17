@@ -1,6 +1,8 @@
 from module import * 
 data=lecture("données/Voiture/test.json") # mettre le nom du fichier à ouvrir
 temps=lecture("données/Temps/temps.json")
+print(data)
+print(temps)
 # for Antigone in data: # mettre le nom du parking à analyser
 #     L1.append(Antigone["Antigone"]["place"]) # analyse d'une donnée
 # temps=lecture("données/Voiture/temps/temps.json") # mettre le nom du fichier à ouvrir
@@ -22,8 +24,12 @@ temps=lecture("données/Temps/temps.json")
 # print(courbe(temps,L1,"place libre"))
 # print(pourcentage(L1,totalparking))
 # print(courbe(temps,pourcentage(L1,totalparking),"pourcentage de place libre"))
-len(print(temps))
-for cle in data[0,len(temps)]:
-    print(cle)
+tot=(len(temps))
+L1=[]
+for cle in data:
+    for parking in cle.items():
+        L1.append(parking['place'])
+print(L1)
+        
     
     
