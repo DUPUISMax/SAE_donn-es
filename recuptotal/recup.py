@@ -2,18 +2,17 @@ import requests, time, json
 
 temps=float(input("entrez le nombre de minutes de prise de données : "))
 te=float(input("entrez l'intervalle de prise de données : "))
-fichiersvoiture = "données/Voiture/"+ input("entrez le nom du fichier pour telechargé : ")+".json"
+fichiersvoiture = "données/Voiture/"+ input("entrez le nom du fichier pour telechargé les données voiture : ")+".json"
+fichiersvelo = "données/Vélo/" + input("entrez le nom du fichier pour telechargé les données vélo : ") +".json"
 fichierstps = "données/temps/"+input("entrez le nom du fichier pour le temps : ")+".json"
-fichiersvelo = "données/Vélo/" + input("entrez le nom du fichier pour telechargé : ") +".json"
 
 
 listevelo, dicovelo2 = [], {}
 listevoiture, dicovoiture2 = [], {}
 listetps = []
 debut = int(time.time())
-while int(time.time())-debut< 60*temps:
-    
-    
+while int(time.time())-debut< 60*temps:    
+    listetps.append(round((time.time()-debut)//60,0))
     responsevoiture = requests.get("https://portail-api-data.montpellier3m.fr/offstreetparking?limit=1000")
     datavoiture = responsevoiture.json()
     for i in range (len(datavoiture)):
@@ -24,11 +23,8 @@ while int(time.time())-debut< 60*temps:
        }
        dicovoiture2[datavoiture[i]["name"]["value"]] = dicovoiture
     listevoiture.append(dicovoiture2)
-
-    
-    
     responsevelo=requests.get("https://portail-api-data.montpellier3m.fr/bikestation?limit=1000")
-    listetps.append(round((time.time()-debut)//60,0))
+    
     
     datavelo = responsevelo.json()
     for i in range (len(datavelo)):
