@@ -11,5 +11,5 @@ for i in range (len(data)):
     dico2[data[i]["name"]["value"]]=dico
 liste.append(dico2)
 
-with open("données/Voiture/placeTotal/placeTotalVoiture.json", 'w') as file:
+with open("SAE_15/données/Voiture/placeTotal/placeTotalVoiture.json", 'w') as file:
     json.dump(liste, file, indent=4)

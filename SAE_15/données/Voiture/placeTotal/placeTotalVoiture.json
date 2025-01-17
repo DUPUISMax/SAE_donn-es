@@ -1,0 +1,172 @@
+[
+    {
+        "Antigone": {
+            "placetotal": 239,
+            "emplacement": [
+                3.88881893,
+                43.60871606
+            ]
+        },
+        "Comedie": {
+            "placetotal": 731,
+            "emplacement": [
+                3.87976196,
+                43.60856092
+            ]
+        },
+        "Corum": {
+            "placetotal": 490,
+            "emplacement": [
+                3.88225773,
+                43.61388821
+            ]
+        },
+        "Europa": {
+            "placetotal": 591,
+            "emplacement": [
+                3.89253074,
+                43.60784971
+            ]
+        },
+        "Foch": {
+            "placetotal": 598,
+            "emplacement": [
+                3.87657084,
+                43.61074912
+            ]
+        },
+        "Gambetta": {
+            "placetotal": 440,
+            "emplacement": [
+                3.87137436,
+                43.60695138
+            ]
+        },
+        "Gare": {
+            "placetotal": 653,
+            "emplacement": [
+                3.87891,
+                43.604024
+            ]
+        },
+        "Triangle": {
+            "placetotal": 434,
+            "emplacement": [
+                3.88184418,
+                43.60923384
+            ]
+        },
+        "Pitot": {
+            "placetotal": 587,
+            "emplacement": [
+                3.87019117,
+                43.61224494
+            ]
+        },
+        "Circe": {
+            "placetotal": 1200,
+            "emplacement": [
+                3.9178495,
+                43.60495377
+            ]
+        },
+        "Garcia Lorca": {
+            "placetotal": 395,
+            "emplacement": [
+                3.8907158,
+                43.59098509
+            ]
+        },
+        "Mosson": {
+            "placetotal": 350,
+            "emplacement": [
+                3.81966554,
+                43.61623716
+            ]
+        },
+        "Sabines": {
+            "placetotal": 220,
+            "emplacement": [
+                3.8602246,
+                43.58383263
+            ]
+        },
+        "Sablassou": {
+            "placetotal": 372,
+            "emplacement": [
+                3.92229536,
+                43.63419194
+            ]
+        },
+        "Saint Jean Le Sec": {
+            "placetotal": 285,
+            "emplacement": [
+                3.8379312,
+                43.57082225
+            ]
+        },
+        "Euromedecine": {
+            "placetotal": 255,
+            "emplacement": [
+                3.82772365,
+                43.63895359
+            ]
+        },
+        "Occitanie": {
+            "placetotal": 615,
+            "emplacement": [
+                3.84859796,
+                43.63456232
+            ]
+        },
+        "Vicarello": {
+            "placetotal": 65,
+            "emplacement": [
+                3.898411,
+                43.63286
+            ]
+        },
+        "Gaumont EST": {
+            "placetotal": 109,
+            "emplacement": [
+                3.91529,
+                43.604526
+            ]
+        },
+        "Gaumont OUEST": {
+            "placetotal": 250,
+            "emplacement": [
+                3.914158,
+                43.604824
+            ]
+        },
+        "Charles de Gaulle": {
+            "placetotal": 260,
+            "emplacement": [
+                3.8977621,
+                43.6285421
+            ]
+        },
+        "Polygone": {
+            "placetotal": 1911,
+            "emplacement": [
+                3.88515,
+                43.607697
+            ]
+        },
+        "Arc de Triomphe": {
+            "placetotal": 440,
+            "emplacement": [
+                3.8732007,
+                43.61100267
+            ]
+        },
+        "Gaumont-Circe": {
+            "placetotal": 500,
+            "emplacement": [
+                3.9178495,
+                43.60495377
+            ]
+        }
+    }
+]
