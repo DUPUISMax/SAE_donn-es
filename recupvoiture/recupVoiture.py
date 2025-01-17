@@ -6,7 +6,7 @@ te = float(input("entrez l'intervalle de prise de données : "))
 fichiers = "données/Voiture/général/"+ input("entrez le nom du fichier pour telechargé : ")+".json"
 fichiers2 = "données/Voiture/temps/"+input("entrez le nom du fichier pour le temps : ")+".json"
 
-liste, liste2, dico, dico2 = [], [], {},{}
+liste, liste2, dico2 = [], [], {}
 
 debut = int(time.time())
 while int(time.time()) - debut < 60*temps:
