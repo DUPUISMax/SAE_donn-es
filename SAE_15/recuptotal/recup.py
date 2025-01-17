@@ -16,14 +16,12 @@ while int(time.time())-debut< 60*temps:
     datavelo = responsevelo.json()
     for i in range (len(datavelo)):
        dicovelo={
-       'numero':i,
-       "adresse":data[i]["address"]["value"]["streetAddress"],
-       "ouverture":data[i]["status"]["value"],
-       "velodispo":data[i]["availableBikeNumber"]["value"],
-       "placelibre":data[i]["freeSlotNumber"]["value"],
-       "date":data[i]["availableBikeNumber"]["metadata"]["timestamp"]["value"]
+       "ouverture":datavelo[i]["status"]["value"],
+       "velodispo":datavelo[i]["availableBikeNumber"]["value"],
+       "placelibre":datavelo[i]["freeSlotNumber"]["value"],
+       "date":datavelo[i]["availableBikeNumber"]["metadata"]["timestamp"]["value"]
        }
-       dicovelo2[data[i]["address"]["value"]["streetAddress"]]=dico
+       dicovelo2[datavelo[i]["address"]["value"]["streetAddress"]]=dicovelo
     listevelo.append(dicovelo2)
     
     print("ok")
