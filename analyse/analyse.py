@@ -26,7 +26,6 @@ print(L1)
 # print(courbe(temps,pourcentage(L1,totalparking),"pourcentage de place libre"))
 tot=(len(temps))
 L1=[]
-for cle in data.keys:
     print(cle)
     for parking in cle.items():
         print(parking)
