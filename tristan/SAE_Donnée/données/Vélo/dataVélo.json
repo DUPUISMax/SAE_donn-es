@@ -1,0 +1,631 @@
+[
+    {
+        "Rue Jules Ferry - Gare Saint-Roch": {
+            "veloDispo": 2,
+            "placeLibre": 10,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.881346,
+                43.605366
+            ],
+            "statut": "working"
+        },
+        "Comédie": {
+            "veloDispo": 14,
+            "placeLibre": 6,
+            "placesTotals": 20,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.878778,
+                43.608148
+            ],
+            "statut": "working"
+        },
+        "Hôtel de Ville": {
+            "veloDispo": 13,
+            "placeLibre": 3,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.894866,
+                43.599088
+            ],
+            "statut": "working"
+        },
+        "Corum": {
+            "veloDispo": 4,
+            "placeLibre": 8,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.8816,
+                43.613989
+            ],
+            "statut": "working"
+        },
+        "Place Albert 1er - St Charles": {
+            "veloDispo": 15,
+            "placeLibre": 12,
+            "placesTotals": 27,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.873375,
+                43.616768
+            ],
+            "statut": "working"
+        },
+        "Foch": {
+            "veloDispo": 6,
+            "placeLibre": 2,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.873345,
+                43.610989
+            ],
+            "statut": "working"
+        },
+        "Halles Castellane": {
+            "veloDispo": 10,
+            "placeLibre": 2,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.877208,
+                43.609935
+            ],
+            "statut": "working"
+        },
+        "Observatoire": {
+            "veloDispo": 2,
+            "placeLibre": 7,
+            "placesTotals": 9,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.87724,
+                43.606301
+            ],
+            "statut": "working"
+        },
+        "Rondelet": {
+            "veloDispo": 14,
+            "placeLibre": 2,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.875796,
+                43.603038
+            ],
+            "statut": "working"
+        },
+        "Plan Cabanes": {
+            "veloDispo": 4,
+            "placeLibre": 8,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.868389,
+                43.608491
+            ],
+            "statut": "working"
+        },
+        "Boutonnet": {
+            "veloDispo": 11,
+            "placeLibre": 1,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.868375,
+                43.622629
+            ],
+            "statut": "working"
+        },
+        "Emile Combes": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.87998,
+                43.616742
+            ],
+            "statut": "working"
+        },
+        "Beaux-Arts": {
+            "veloDispo": 9,
+            "placeLibre": 7,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.884981,
+                43.616698
+            ],
+            "statut": "working"
+        },
+        "Les Aubes": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.893844,
+                43.618692
+            ],
+            "statut": "working"
+        },
+        "Antigone centre": {
+            "veloDispo": 2,
+            "placeLibre": 10,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.890634,
+                43.607942
+            ],
+            "statut": "working"
+        },
+        "Médiathèque Emile Zola": {
+            "veloDispo": 7,
+            "placeLibre": 9,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.89314,
+                43.608218
+            ],
+            "statut": "working"
+        },
+        "Nombre d Or": {
+            "veloDispo": 6,
+            "placeLibre": 10,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.886644,
+                43.607859
+            ],
+            "statut": "working"
+        },
+        "Louis Blanc": {
+            "veloDispo": 8,
+            "placeLibre": 8,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.877648,
+                43.614642
+            ],
+            "statut": "working"
+        },
+        "Gambetta": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.870693,
+                43.607106
+            ],
+            "statut": "working"
+        },
+        "Port Marianne": {
+            "veloDispo": 16,
+            "placeLibre": 0,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.89851,
+                43.60032
+            ],
+            "statut": "working"
+        },
+        "Les Arceaux": {
+            "veloDispo": 2,
+            "placeLibre": 6,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.867734,
+                43.612659
+            ],
+            "statut": "working"
+        },
+        "Cité Mion": {
+            "veloDispo": 3,
+            "placeLibre": 5,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.884373,
+                43.601143
+            ],
+            "statut": "working"
+        },
+        "Nouveau Saint-Roch": {
+            "veloDispo": 8,
+            "placeLibre": 0,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.875757,
+                43.599817
+            ],
+            "statut": "working"
+        },
+        "Renouvier": {
+            "veloDispo": 3,
+            "placeLibre": 5,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.867884,
+                43.603553
+            ],
+            "statut": "working"
+        },
+        "Odysseum": {
+            "veloDispo": 0,
+            "placeLibre": 8,
+            "placesTotals": 8,
+            "tempsModif": "2024-03-01T09:08:06.000Z",
+            "emmplacement": [
+                3.918979,
+                43.603727
+            ],
+            "statut": "working"
+        },
+        "Saint-Denis": {
+            "veloDispo": 0,
+            "placeLibre": 8,
+            "placesTotals": 8,
+            "tempsModif": "2024-10-09T10:48:04.000Z",
+            "emmplacement": [
+                3.875065,
+                43.605021
+            ],
+            "statut": "working"
+        },
+        "Richter": {
+            "veloDispo": 10,
+            "placeLibre": 6,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.899263,
+                43.603424
+            ],
+            "statut": "working"
+        },
+        "Charles Flahault": {
+            "veloDispo": 6,
+            "placeLibre": 2,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.865971,
+                43.618762
+            ],
+            "statut": "working"
+        },
+        "Voltaire": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.888659,
+                43.603767
+            ],
+            "statut": "working"
+        },
+        "Prés d Arènes": {
+            "veloDispo": 3,
+            "placeLibre": 5,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.884611,
+                43.59048
+            ],
+            "statut": "working"
+        },
+        "Garcia Lorca": {
+            "veloDispo": 6,
+            "placeLibre": 2,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.890616,
+                43.590757
+            ],
+            "statut": "working"
+        },
+        "Vert Bois": {
+            "veloDispo": 6,
+            "placeLibre": 10,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.871179397,
+                43.635429956
+            ],
+            "statut": "working"
+        },
+        "Malbosc": {
+            "veloDispo": 6,
+            "placeLibre": 2,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.832861,
+                43.633679
+            ],
+            "statut": "working"
+        },
+        "Occitanie": {
+            "veloDispo": 3,
+            "placeLibre": 29,
+            "placesTotals": 32,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.849128,
+                43.634242
+            ],
+            "statut": "working"
+        },
+        "FacdesSciences": {
+            "veloDispo": 6,
+            "placeLibre": 18,
+            "placesTotals": 24,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.861299,
+                43.631318
+            ],
+            "statut": "working"
+        },
+        "Fac de Lettres": {
+            "veloDispo": 4,
+            "placeLibre": 8,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.869447,
+                43.627799
+            ],
+            "statut": "working"
+        },
+        "Aiguelongue": {
+            "veloDispo": 2,
+            "placeLibre": 6,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.882492,
+                43.626163
+            ],
+            "statut": "working"
+        },
+        "Jeu de Mail des Abbés": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.883831,
+                43.619701
+            ],
+            "statut": "working"
+        },
+        "Euromédecine": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.828199,
+                43.639119
+            ],
+            "statut": "working"
+        },
+        "Marie Caizergues": {
+            "veloDispo": 0,
+            "placeLibre": 8,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.873812,
+                43.619871
+            ],
+            "statut": "working"
+        },
+        "Sabines": {
+            "veloDispo": 4,
+            "placeLibre": 4,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.860031,
+                43.584211
+            ],
+            "statut": "working"
+        },
+        "Celleneuve": {
+            "veloDispo": 3,
+            "placeLibre": 5,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.832624,
+                43.61467
+            ],
+            "statut": "working"
+        },
+        "Jardin de la Lironde": {
+            "veloDispo": 4,
+            "placeLibre": 4,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.911576,
+                43.60585
+            ],
+            "statut": "working"
+        },
+        "Père Soulas": {
+            "veloDispo": 6,
+            "placeLibre": 2,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.855603,
+                43.621983
+            ],
+            "statut": "working"
+        },
+        "Place Viala": {
+            "veloDispo": 1,
+            "placeLibre": 7,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.855075,
+                43.616812
+            ],
+            "statut": "working"
+        },
+        "Hôtel du Département": {
+            "veloDispo": 1,
+            "placeLibre": 7,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.83477,
+                43.621682
+            ],
+            "statut": "working"
+        },
+        "Tonnelles": {
+            "veloDispo": 2,
+            "placeLibre": 6,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.839466,
+                43.615155
+            ],
+            "statut": "working"
+        },
+        "Parvis Jules Ferry - Gare Saint-Roch": {
+            "veloDispo": 4,
+            "placeLibre": 4,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.879362,
+                43.603889
+            ],
+            "statut": "working"
+        },
+        "Pont de Lattes - Gare Saint-Roch": {
+            "veloDispo": 1,
+            "placeLibre": 11,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.882393,
+                43.606036
+            ],
+            "statut": "working"
+        },
+        "Deux Ponts - Gare Saint-Roch": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.880916,
+                43.604319
+            ],
+            "statut": "working"
+        },
+        "Providence - Ovalie": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.853421,
+                43.588239
+            ],
+            "statut": "working"
+        },
+        "Pérols Etang de l Or": {
+            "veloDispo": 25,
+            "placeLibre": 43,
+            "placesTotals": 68,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.963412,
+                43.558351
+            ],
+            "statut": "working"
+        },
+        "Albert 1er - Cathédrale": {
+            "veloDispo": 8,
+            "placeLibre": 4,
+            "placesTotals": 12,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.873218,
+                43.614005
+            ],
+            "statut": "working"
+        },
+        "Saint-Guilhem - Courreau": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.872752,
+                43.608996
+            ],
+            "statut": "working"
+        },
+        "Sud De France": {
+            "veloDispo": 5,
+            "placeLibre": 3,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.9235,
+                43.59562
+            ],
+            "statut": "working"
+        },
+        "Comedie Baudin": {
+            "veloDispo": 3,
+            "placeLibre": 5,
+            "placesTotals": 8,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.880787,
+                43.608717
+            ],
+            "statut": "working"
+        },
+        "Jean de Beins": {
+            "veloDispo": 4,
+            "placeLibre": 12,
+            "placesTotals": 16,
+            "tempsModif": "2025-01-10T11:47:04.000Z",
+            "emmplacement": [
+                3.883884,
+                43.609857
+            ],
+            "statut": "working"
+        }
+    }
+]
