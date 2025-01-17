@@ -28,7 +28,6 @@ tot=(len(temps))
 L1=[]
     print(cle)
     for parking in cle.items():
-        print(parking)
         L1.append(cle['place'])
 print(L1)
         
