@@ -1,0 +1,403 @@
+[
+    {
+        "Rue Jules Ferry - Gare Saint-Roch": {
+            "placetotal": 12,
+            "emplacement": [
+                3.881346,
+                43.605366
+            ]
+        },
+        "Com�die": {
+            "placetotal": 20,
+            "emplacement": [
+                3.878778,
+                43.608148
+            ]
+        },
+        "H�tel de Ville": {
+            "placetotal": 16,
+            "emplacement": [
+                3.894866,
+                43.599088
+            ]
+        },
+        "Corum": {
+            "placetotal": 12,
+            "emplacement": [
+                3.8816,
+                43.613989
+            ]
+        },
+        "Place Albert 1er - St Charles": {
+            "placetotal": 27,
+            "emplacement": [
+                3.873375,
+                43.616768
+            ]
+        },
+        "Foch": {
+            "placetotal": 8,
+            "emplacement": [
+                3.873345,
+                43.610989
+            ]
+        },
+        "Halles Castellane": {
+            "placetotal": 12,
+            "emplacement": [
+                3.877208,
+                43.609935
+            ]
+        },
+        "Observatoire": {
+            "placetotal": 8,
+            "emplacement": [
+                3.87724,
+                43.606301
+            ]
+        },
+        "Rondelet": {
+            "placetotal": 16,
+            "emplacement": [
+                3.875796,
+                43.603038
+            ]
+        },
+        "Plan Cabanes": {
+            "placetotal": 12,
+            "emplacement": [
+                3.868389,
+                43.608491
+            ]
+        },
+        "Boutonnet": {
+            "placetotal": 12,
+            "emplacement": [
+                3.868375,
+                43.622629
+            ]
+        },
+        "Emile Combes": {
+            "placetotal": 8,
+            "emplacement": [
+                3.87998,
+                43.616742
+            ]
+        },
+        "Beaux-Arts": {
+            "placetotal": 16,
+            "emplacement": [
+                3.884981,
+                43.616698
+            ]
+        },
+        "Les Aubes": {
+            "placetotal": 8,
+            "emplacement": [
+                3.893844,
+                43.618692
+            ]
+        },
+        "Antigone centre": {
+            "placetotal": 12,
+            "emplacement": [
+                3.890634,
+                43.607942
+            ]
+        },
+        "M�diath�que Emile Zola": {
+            "placetotal": 16,
+            "emplacement": [
+                3.89314,
+                43.608218
+            ]
+        },
+        "Nombre d Or": {
+            "placetotal": 16,
+            "emplacement": [
+                3.886644,
+                43.607859
+            ]
+        },
+        "Louis Blanc": {
+            "placetotal": 16,
+            "emplacement": [
+                3.877648,
+                43.614642
+            ]
+        },
+        "Gambetta": {
+            "placetotal": 8,
+            "emplacement": [
+                3.870693,
+                43.607106
+            ]
+        },
+        "Port Marianne": {
+            "placetotal": 16,
+            "emplacement": [
+                3.89851,
+                43.60032
+            ]
+        },
+        "Les Arceaux": {
+            "placetotal": 8,
+            "emplacement": [
+                3.867734,
+                43.612659
+            ]
+        },
+        "Cit� Mion": {
+            "placetotal": 8,
+            "emplacement": [
+                3.884373,
+                43.601143
+            ]
+        },
+        "Nouveau Saint-Roch": {
+            "placetotal": 8,
+            "emplacement": [
+                3.875757,
+                43.599817
+            ]
+        },
+        "Renouvier": {
+            "placetotal": 8,
+            "emplacement": [
+                3.867884,
+                43.603553
+            ]
+        },
+        "Odysseum": {
+            "placetotal": 8,
+            "emplacement": [
+                3.918979,
+                43.603727
+            ]
+        },
+        "Saint-Denis": {
+            "placetotal": 8,
+            "emplacement": [
+                3.875065,
+                43.605021
+            ]
+        },
+        "Richter": {
+            "placetotal": 16,
+            "emplacement": [
+                3.899263,
+                43.603424
+            ]
+        },
+        "Charles Flahault": {
+            "placetotal": 8,
+            "emplacement": [
+                3.865971,
+                43.618762
+            ]
+        },
+        "Voltaire": {
+            "placetotal": 8,
+            "emplacement": [
+                3.888659,
+                43.603767
+            ]
+        },
+        "Pr�s d Ar�nes": {
+            "placetotal": 8,
+            "emplacement": [
+                3.884611,
+                43.59048
+            ]
+        },
+        "Garcia Lorca": {
+            "placetotal": 8,
+            "emplacement": [
+                3.890616,
+                43.590757
+            ]
+        },
+        "Vert Bois": {
+            "placetotal": 16,
+            "emplacement": [
+                3.871179397,
+                43.635429956
+            ]
+        },
+        "Malbosc": {
+            "placetotal": 8,
+            "emplacement": [
+                3.832861,
+                43.633679
+            ]
+        },
+        "Occitanie": {
+            "placetotal": 32,
+            "emplacement": [
+                3.849128,
+                43.634242
+            ]
+        },
+        "FacdesSciences": {
+            "placetotal": 24,
+            "emplacement": [
+                3.861299,
+                43.631318
+            ]
+        },
+        "Fac de Lettres": {
+            "placetotal": 12,
+            "emplacement": [
+                3.869447,
+                43.627799
+            ]
+        },
+        "Aiguelongue": {
+            "placetotal": 8,
+            "emplacement": [
+                3.882492,
+                43.626163
+            ]
+        },
+        "Jeu de Mail des Abb�s": {
+            "placetotal": 8,
+            "emplacement": [
+                3.883831,
+                43.619701
+            ]
+        },
+        "Eurom�decine": {
+            "placetotal": 8,
+            "emplacement": [
+                3.828199,
+                43.639119
+            ]
+        },
+        "Marie Caizergues": {
+            "placetotal": 8,
+            "emplacement": [
+                3.873812,
+                43.619871
+            ]
+        },
+        "Sabines": {
+            "placetotal": 8,
+            "emplacement": [
+                3.860031,
+                43.584211
+            ]
+        },
+        "Celleneuve": {
+            "placetotal": 8,
+            "emplacement": [
+                3.832624,
+                43.61467
+            ]
+        },
+        "Jardin de la Lironde": {
+            "placetotal": 8,
+            "emplacement": [
+                3.911576,
+                43.60585
+            ]
+        },
+        "P�re Soulas": {
+            "placetotal": 8,
+            "emplacement": [
+                3.855603,
+                43.621983
+            ]
+        },
+        "Place Viala": {
+            "placetotal": 8,
+            "emplacement": [
+                3.855075,
+                43.616812
+            ]
+        },
+        "H�tel du D�partement": {
+            "placetotal": 8,
+            "emplacement": [
+                3.83477,
+                43.621682
+            ]
+        },
+        "Tonnelles": {
+            "placetotal": 8,
+            "emplacement": [
+                3.839466,
+                43.615155
+            ]
+        },
+        "Parvis Jules Ferry - Gare Saint-Roch": {
+            "placetotal": 8,
+            "emplacement": [
+                3.879362,
+                43.603889
+            ]
+        },
+        "Pont de Lattes - Gare Saint-Roch": {
+            "placetotal": 12,
+            "emplacement": [
+                3.882393,
+                43.606036
+            ]
+        },
+        "Deux Ponts - Gare Saint-Roch": {
+            "placetotal": 8,
+            "emplacement": [
+                3.880916,
+                43.604319
+            ]
+        },
+        "Providence - Ovalie": {
+            "placetotal": 8,
+            "emplacement": [
+                3.853421,
+                43.588239
+            ]
+        },
+        "P�rols Etang de l Or": {
+            "placetotal": 68,
+            "emplacement": [
+                3.963412,
+                43.558351
+            ]
+        },
+        "Albert 1er - Cath�drale": {
+            "placetotal": 12,
+            "emplacement": [
+                3.873218,
+                43.614005
+            ]
+        },
+        "Saint-Guilhem - Courreau": {
+            "placetotal": 8,
+            "emplacement": [
+                3.872752,
+                43.608996
+            ]
+        },
+        "Sud De France": {
+            "placetotal": 8,
+            "emplacement": [
+                3.9235,
+                43.59562
+            ]
+        },
+        "Comedie Baudin": {
+            "placetotal": 8,
+            "emplacement": [
+                3.880787,
+                43.608717
+            ]
+        },
+        "Jean de Beins": {
+            "placetotal": 16,
+            "emplacement": [
+                3.883884,
+                43.609857
+            ]
+        }
+    }
+]

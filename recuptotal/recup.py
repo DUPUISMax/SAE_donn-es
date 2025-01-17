@@ -2,9 +2,9 @@ import requests, time, json
 
 temps=float(input("entrez le nombre de minutes de prise de données : "))
 te=float(input("entrez l'intervalle de prise de données : "))
-fichiersvoiture = "données/Voiture/général/"+ input("entrez le nom du fichier pour telechargé : ")+".json"
-fichierstps = "données/Voiture/temps/"+input("entrez le nom du fichier pour le temps : ")+".json"
-fichiersvelo = "données/Vélo/général/" + input("entrez le nom du fichier pour telechargé : ") +".json"
+fichiersvoiture = "données/Voiture/"+ input("entrez le nom du fichier pour telechargé : ")+".json"
+fichierstps = "données/temps/"+input("entrez le nom du fichier pour le temps : ")+".json"
+fichiersvelo = "données/Vélo/" + input("entrez le nom du fichier pour telechargé : ") +".json"
 
 
 listevelo, dicovelo2 = [], {}
