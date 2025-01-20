@@ -1,5 +1,5 @@
 from module import * 
-
+import matplotlib.pyplot as plt
 import json
 
 # Charger les données du fichier JSON
@@ -23,15 +23,16 @@ for entry in data3:
         if parking_name not in parkingstot:
             parkingstot[parking_name] = []
         parkingstot[parking_name].append(parking_info['placetotal'])
+#print(parkings)
 # Afficher les places pour chaque parking
+#for parking_name, places in parkings.items():
+#    print(courbe(data2,places, parking_name)):
 for parking_name, places in parkings.items():
-    print(courbe(data2,places, parking_name))
-# for parking_name, places in parkings.items():
-#     for parking_name_tot, placestot  in parkingstot.items():
-#         if parking_name == parking_name_tot:
-#             print(places)
-#             print(placestot)
-#             print(courbe(data2,pourcentage(places,placestot[0]), parking_name))
+    plt.plot(data2, places, label=parking_name)
+plt.show()
+
+                
+                
 
 
 
