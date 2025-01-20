@@ -13,8 +13,12 @@ listetps = []
 debut = int(time.time())
 while int(time.time())-debut< 60*temps:    
     listetps.append(round((time.time()-debut)//60,0))
+    headers = {'Cache-Control': 'no-cache'}
     responsevoiture = requests.get("https://portail-api-data.montpellier3m.fr/offstreetparking?limit=1000")
+    if responsevoiture.status_code != 200: # 200 signifie "OK"
+        print("Erreur lors de la requête voiture")
     datavoiture = responsevoiture.json()
+    dicovoiture2={}
     for i in range (len(datavoiture)):
        dicovoiture = {
        "ouverture":datavoiture[i]["status"]["value"],
@@ -23,10 +27,11 @@ while int(time.time())-debut< 60*temps:
        }
        dicovoiture2[datavoiture[i]["name"]["value"]] = dicovoiture
     listevoiture.append(dicovoiture2)
+    
     responsevelo=requests.get("https://portail-api-data.montpellier3m.fr/bikestation?limit=1000")
     
-    
     datavelo = responsevelo.json()
+    dicovelo2={}    
     for i in range (len(datavelo)):
        dicovelo={
        "ouverture":datavelo[i]["status"]["value"],
