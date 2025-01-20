@@ -10,7 +10,6 @@ with open('données/Temps/test2.json', 'r') as file:
     data2 = json.load(file)
 # Initialiser un dictionnaire pour stocker les places par parking
 parkings = {}
-print(data2[])
 
 # Récupérer les places de chaque parking
 for entry in data:
@@ -21,7 +20,6 @@ for entry in data:
 
 # Afficher les places pour chaque parking
 for parking_name, places in parkings.items():
-    courbe(data2,places, parking_name)
     print(courbe(data2,places, parking_name))
 
 
