@@ -28,7 +28,9 @@ for entry in data3:
 #for parking_name, places in parkings.items():
 #    print(courbe(data2,places, parking_name)):
 for parking_name, places in parkings.items():
-    plt.plot(data2, places, label=parking_name,)
+    for parking_name_tot, placestot  in parkingstot.items():
+        if parking_name == parking_name_tot:   
+            plt.plot(data2,pourcentage(places, placestot[0]), label=parking_name,)
 plt.xlabel('Temps')
 plt.ylabel('Places disponibles')
 
@@ -39,3 +41,4 @@ fig.subplots_adjust(right=0.7)  # Ajuster la taille du graphique pour laisser de
 plt.title('Nombre de places disponibles par parking')
 
 plt.show()
+
