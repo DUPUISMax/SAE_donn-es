@@ -6,7 +6,6 @@ import json
 with open('données/Voiture/17.01.20h.json', 'r') as file:
 with open('données/Voiture/test2.json', 'r') as file:
     data = json.load(file)
-with open('données/Temps/17.01.20h.json', 'r') as file:
 with open('données/Temps/test2.json', 'r') as file:
     data2 = json.load(file)
 # Initialiser un dictionnaire pour stocker les places par parking
