@@ -34,10 +34,9 @@ plt.ylabel('Places disponibles')
 
 plt.legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-# Créer la figure et placer la légende
 fig = plt.gcf()  # Récupérer la figure actuelle
 fig.subplots_adjust(right=0.7)  # Ajuster la taille du graphique pour laisser de la place à la légende
-plt.title('Graphique avec une légende séparée')
+plt.title('Nombre de places disponibles par parking')
 
 plt.show()
 
