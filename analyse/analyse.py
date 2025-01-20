@@ -31,11 +31,17 @@ for parking_name, places in parkings.items():
     plt.plot(data2, places, label=parking_name,)
 plt.xlabel('Temps')
 plt.ylabel('Places disponibles')
-plt.legend()
+
+plt.legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Créer la figure et placer la légende
+fig = plt.gcf()  # Récupérer la figure actuelle
+fig.subplots_adjust(right=0.7)  # Ajuster la taille du graphique pour laisser de la place à la légende
+plt.title('Graphique avec une légende séparée')
+
 plt.show()
 
-                
-                
+                   
 
 
 
