@@ -34,5 +34,3 @@ with open(fichiers, 'w') as file:
 
 with open(fichiers2, 'w') as file2:
     json.dump(liste2, file2, ensure_ascii=False, indent=4)
-    
-print("hello word")
