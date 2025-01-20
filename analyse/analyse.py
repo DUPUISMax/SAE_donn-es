@@ -18,14 +18,20 @@ for entry in data:
         if parking_name not in parkings:
             parkings[parking_name] = []
         parkings[parking_name].append(parking_info['place'])
-
+for entry in data3: 
+    for parking_name, parking_info in entry.items():
+        if parking_name not in parkingstot:
+            parkingstot[parking_name] = []
+        parkingstot[parking_name].append(parking_info['placetotal'])
 #print(parkings)
 # Afficher les places pour chaque parking
 #for parking_name, places in parkings.items():
 #    print(courbe(data2,places, parking_name)):
 for parking_name, places in parkings.items():
-    
     plt.plot(data2, places, label=parking_name,)
+plt.xlabel('Temps')
+plt.ylabel('Places disponibles')
+plt.legend()
 plt.show()
 
                 

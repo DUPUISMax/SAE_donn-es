@@ -82,4 +82,3 @@ def lecture(fichier):
         data = json.load(file)
     return data
 
-def courbe2()
