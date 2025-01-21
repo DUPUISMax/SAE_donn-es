@@ -101,3 +101,21 @@ def chargetotal(data):
                 parkingstot[parking_name] = []
             parkingstot[parking_name].append(parking_info['placetotal'])
     return parkingstot
+
+def chargeveloplace(data):
+    place = {}
+    for entry in data:
+        for parking_name, parking_info in entry.items():
+            if parking_name not in place:
+                place[parking_name] = []
+            place[parking_name].append(parking_info['placelibre'])
+    return place
+
+def chargevelodispo(data):
+    velo = {}
+    for entry in data:
+        for parking_name, parking_info in entry.items():
+            if parking_name not in velo:
+                velo[parking_name] = []
+            velo[parking_name].append(parking_info['velodispo'])
+    return velo

@@ -1,58 +1,136 @@
-from module import *  # Assurez-vous que les fonctions comme `pourcentage` et `courbe` sont correctement définies
 import matplotlib.pyplot as plt
 import json
+from module import * 
 
-# Liste des fichiers JSON
-voiture_files = ['données/Voiture/21.01.8h30.json', 'données/Voiture/21.01.14h.json']
-temps_files = ['données/Temps/21.01.8h30.json', 'données/Temps/21.01.14h.json']
-placetotal_file = 'données/Voiture/placeTotal/placeTotalVoiture.json'
+with open('données/Vélo/21.01.14h.json', 'r') as file:
+    data = json.load(file)
 
-# Initialiser des dictionnaires pour stocker les données
-parkings = {}
-parkingstot = {}
+with open('données/Temps/21.01.14h.json', 'r') as file:
+    data2 = json.load(file)
 
-# Charger les données des fichiers `voiture_files`
-for file_path in voiture_files:
-    with open(file_path, 'r') as file:
-        data = json.load(file)
-        for entry in data:
-            for parking_name, parking_info in entry.items():
-                if parking_name not in parkings:
-                    parkings[parking_name] = []
-                parkings[parking_name].append(parking_info['place'])
-
-# Charger les données des fichiers `temps_files`
-temps_data = []
-for file_path in temps_files:
-    with open(file_path, 'r') as file:
-        temps_data.extend(json.load(file))  # Fusionner les temps de plusieurs fichiers
-
-# Charger les données des places totales
-with open(placetotal_file, 'r') as file:
+with open('données/Vélo/placeTotal/placeTotalVélo.json', 'r') as file:
     data3 = json.load(file)
-    for entry in data3:
-        for parking_name, parking_info in entry.items():
-            if parking_name not in parkingstot:
-                parkingstot[parking_name] = []
-            parkingstot[parking_name].append(parking_info['placetotal'])
 
-# Tracer les données
-plt.figure(figsize=(12, 6))
+# Création de l'image 1
+fig1, axs1 = plt.subplots(3, 4, figsize=(14, 7))  # 3 lignes, 4 colonne
 
-for parking_name, places in parkings.items():
-    for parking_name_tot, placestot in parkingstot.items():
+# Premier graphique
+axs1[0,0].set_title('Nombre de places disponibles pour vélo en pourcentage')
+
+for i, (parking_name, places) in enumerate(list(chargeveloplace(data).items())[:15]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
-            plt.plot(
-                temps_data,
-                pourcentage(places, placestot[0]),
-                label=parking_name,
-            )
+            axs1[0,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 
-plt.xlabel('Temps')
-plt.ylabel('Places disponibles Parking Voiture')
-plt.legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+axs1[0,0].set_xlabel('Temps')
+axs1[0,0].set_ylabel('Places disponibles')
+axs1[0,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-fig = plt.gcf()  # Récupérer la figure actuelle
-fig.subplots_adjust(right=0.7)  # Ajuster la taille du graphique pour laisser de la place à la légende
-plt.title('Nombre de places disponibles par parking')
+# Deuxième graphique
+axs1[0,3].set_title('Nombre de places disponibles pour vélo en pourcentage')
+for i, (parking_name, places) in enumerate(list(chargeveloplace(data).items())[16:30]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs1[0,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs1[0,3].set_xlabel('Temps')
+axs1[0,3].set_ylabel('Places disponibles')
+axs1[0,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Troisième graphique
+axs1[2,0].set_title('Nombre de places disponibles pour vélo en pourcentage')
+for i, (parking_name, places) in enumerate(list(chargeveloplace(data).items())[31:45]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs1[2,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs1[2,0].set_xlabel('Temps')
+axs1[2,0].set_ylabel('Places disponibles')
+axs1[2,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Quatrième graphique
+axs1[2,3].set_title('Nombre de places disponibles pour vélo en pourcentage')
+for i, (parking_name, places) in enumerate(list(chargeveloplace(data).items())[46:60]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs1[2,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs1[2,3].set_xlabel('Temps')
+axs1[2,3].set_ylabel('Places disponibles')
+axs1[2,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Laisser ligne et colonne vide vide
+fig1.delaxes(axs1[0, 1])
+fig1.delaxes(axs1[0, 2])
+fig1.delaxes(axs1[1, 1])
+fig1.delaxes(axs1[1, 2])
+fig1.delaxes(axs1[1, 0])
+fig1.delaxes(axs1[2, 1])
+fig1.delaxes(axs1[2, 2])
+fig1.delaxes(axs1[1, 3])
+
+# Ajuster la taille du graphique pour laisser de la place à la légende
+fig1.subplots_adjust(right=0.7)
+
+# Afficher le graphique
 plt.show()
+
+
+# Création de l'image 2
+fig2, axs2 = plt.subplots(3, 4, figsize=(14, 7))  # 3 lignes, 4 colonne
+
+# Premier graphique
+axs2[0,0].set_title('Nombre de vélos disponibles en pourcentage')
+
+for i, (parking_name, places) in enumerate(list(chargevelodispo(data).items())[:15]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs2[0,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+
+axs2[0,0].set_xlabel('Temps')
+axs2[0,0].set_ylabel('Places disponibles')
+axs2[0,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Deuxième graphique
+axs2[0,3].set_title('Nombre de vélos disponibles en pourcentage')
+for i, (parking_name, places) in enumerate(list(chargevelodispo(data).items())[16:30]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs2[0,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs2[0,3].set_xlabel('Temps')
+axs2[0,3].set_ylabel('Places disponibles')
+axs2[0,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Troisième graphique
+axs2[2,0].set_title('Nombre de vélos disponibles en pourcentage')
+for i, (parking_name, places) in enumerate(list(chargevelodispo(data).items())[31:45]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs2[2,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs2[2,0].set_xlabel('Temps')
+axs2[2,0].set_ylabel('Places disponibles')
+axs2[2,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Quatrième graphique
+axs2[2,3].set_title('Nombre de vélos disponibles en pourcentage')
+for i, (parking_name, places) in enumerate(list(chargevelodispo(data).items())[46:60]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
+        if parking_name == parking_name_tot:
+            axs2[2,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs2[2,3].set_xlabel('Temps')
+axs2[2,3].set_ylabel('Places disponibles')
+axs2[2,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+
+# Laisser ligne et colonne vide vide
+fig2.delaxes(axs2[0, 1])
+fig2.delaxes(axs2[0, 2])
+fig2.delaxes(axs2[1, 1])
+fig2.delaxes(axs2[1, 2])
+fig2.delaxes(axs2[1, 0])
+fig2.delaxes(axs2[2, 1])
+fig2.delaxes(axs2[2, 2])
+fig2.delaxes(axs2[1, 3])
+
+# Ajuster la taille du graphique pour laisser de la place à la légende
+fig2.subplots_adjust(right=0.7)
+
+# Afficher le graphique
+plt.show()
+
