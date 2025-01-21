@@ -148,3 +148,32 @@ def MEFcroisee (t1,t2):
     plot.imshow(tableau, cmap='Blues')
     plot.colorbar()
     plot.show()
+    
+def tempsConversion(chaine, repet):
+    # Étape 1 : Extraire "8h30" et séparer les heures et minutes
+    partie_heure = chaine.split('.')[2]  # Extraction de "8h30"
+    heures, minutes = map(int, partie_heure.split('h'))  # Convertit en entiers
+
+    # Étape 2 : Créer une liste vide pour stocker les temps
+    temps = []
+
+    # Étape 3 : Boucle pour ajouter des incréments de 5 minutes
+    for _ in range(repet):  # Exemple pour générer 10 itérations
+        # Ajouter le temps actuel dans la liste
+        temps.append(f"{heures:02}h{minutes:02}")
+        
+        # Ajouter 5 minutes
+        minutes += 5
+        
+        # Gérer les minutes > 60
+        if minutes >= 60:
+            minutes -= 60
+            heures += 1
+
+
+        # Gérer les heures > 24
+        if heures >= 24:
+            heures = 0
+
+    # Afficher la liste résultante
+    return temps

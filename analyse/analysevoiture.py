@@ -1,8 +1,10 @@
 import matplotlib.pyplot as plt
-import json, mplcursors
+import json
 from module import * 
 
-with open('données/Voiture/21.01.14h.json', 'r') as file:
+fichierVoiture = "21.01.14h.json"
+
+with open('données/Voiture/'+fichierVoiture, 'r') as file:
     data = json.load(file)
 
 with open('données/Temps/21.01.14h.json', 'r') as file:
@@ -11,6 +13,9 @@ with open('données/Temps/21.01.14h.json', 'r') as file:
 with open('données/Voiture/placeTotal/placeTotalVoiture.json', 'r') as file:
     data3 = json.load(file)
 
+repetition = len(data)
+data2 = tempsConversion("21.01.14h00", repetition)
+print(data2)
 # Création de l'image
 fig, axs = plt.subplots(3, 4, figsize=(14, 7))  # 3 lignes, 4 colonne
 
@@ -21,6 +26,14 @@ for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[:6]
     for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[0,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+
+# Sélectionner les ticks à afficher (chaque 5ème élément)
+interval = 6  # Afficher tous les 5 éléments
+ticks_to_display = data2[:len(data2):interval]  # Sélectionner tous les 5 éléments de data2
+plt.setp(axs[0, 0].xaxis.get_majorticklabels(), rotation=45, ha="right")
+
+# Appliquer les ticks à l'axe des x
+axs[0, 0].set_xticks(ticks_to_display)
 
 axs[0,0].set_xlabel('Temps')
 axs[0,0].set_ylabel('Places disponibles')
@@ -72,5 +85,5 @@ fig.subplots_adjust(right=0.7)
 # Afficher le graphique
 plt.show()
 
+MEF(tableaucor(chargevoiture(data)))
 
-MEF(data)
