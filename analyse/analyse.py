@@ -1,6 +1,6 @@
 from module import * 
 import matplotlib.pyplot as plt
-import json
+import json, mplcursors
 
 # Charger les données du fichier JSON
 with open('données/Voiture/test2.json', 'r') as file:
@@ -49,5 +49,8 @@ plt.legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 fig = plt.gcf()  # Récupérer la figure actuelle
 fig.subplots_adjust(right=0.7)  # Ajuster la taille du graphique pour laisser de la place à la légende
 plt.title('Nombre de places disponibles par parking')
+
+cursor = mplcursors.cursor(hover=True)
+cursor.connect("add", lambda sel: sel.annotation.set_text(sel.artist.get_label()))
 
 plt.show()
