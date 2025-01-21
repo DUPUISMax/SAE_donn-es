@@ -82,3 +82,22 @@ def lecture(fichier):
         data = json.load(file)
     return data
 
+# Récupérer les places de chaque parking
+def chargevoiture(data):
+    parkings = {}
+    for entry in data:
+        for parking_name, parking_info in entry.items():
+            if parking_name not in parkings:
+                parkings[parking_name] = []
+            parkings[parking_name].append(parking_info['place'])
+    return parkings
+
+# Récupérer les places totales de chaque parking
+def chargetotal(data):
+    parkingstot = {}
+    for entry in data:
+        for parking_name, parking_info in entry.items():
+            if parking_name not in parkingstot:
+                parkingstot[parking_name] = []
+            parkingstot[parking_name].append(parking_info['placetotal'])
+    return parkingstot

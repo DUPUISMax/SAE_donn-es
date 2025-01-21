@@ -2,41 +2,23 @@ import matplotlib.pyplot as plt
 import mplcursors, json
 from module import * 
 
-with open('données/Voiture/test2.json', 'r') as file:
+with open('données/Voiture/21.01.14h.json', 'r') as file:
     data = json.load(file)
 
-with open('données/Temps/test2.json', 'r') as file:
+with open('données/Temps/21.01.14h.json', 'r') as file:
     data2 = json.load(file)
 
 with open('données/Voiture/placeTotal/placeTotalVoiture.json', 'r') as file:
     data3 = json.load(file)
 
-# Initialiser un dictionnaire pour stocker les places par parking
-parkings = {}
-parkingstot = {}
-
-# Récupérer les places de chaque parking
-for entry in data:
-    for parking_name, parking_info in entry.items():
-        if parking_name not in parkings:
-            parkings[parking_name] = []
-        parkings[parking_name].append(parking_info['place'])
-
-# Récupérer les places totales de chaque parking
-for entry in data3:
-    for parking_name, parking_info in entry.items():
-        if parking_name not in parkingstot:
-            parkingstot[parking_name] = []
-        parkingstot[parking_name].append(parking_info['placetotal'])
-
 # Création de l'image
-fig, axs = plt.subplots(3, 4, figsize=(12, 12))  # 3 lignes, 4 colonne
+fig, axs = plt.subplots(3, 4, figsize=(14, 7))  # 3 lignes, 4 colonne
 
 # Premier graphique
 axs[0,0].set_title('Nombre de places disponibles par parking en pourcentage')
 
-for i, (parking_name, places) in enumerate(list(parkings.items())[:6]) :
-    for parking_name_tot, placestot in parkingstot.items():
+for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[:6]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[0,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 
@@ -46,8 +28,8 @@ axs[0,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
 # Deuxième graphique
 axs[0,3].set_title('Nombre de places disponibles par parking en pourcentage')
-for i, (parking_name, places) in enumerate(list(parkings.items())[7:13]) :
-    for parking_name_tot, placestot in parkingstot.items():
+for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[7:13]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[0,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 axs[0,3].set_xlabel('Temps')
@@ -56,8 +38,8 @@ axs[0,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
 # Troisième graphique
 axs[2,0].set_title('Nombre de places disponibles par parking en pourcentage')
-for i, (parking_name, places) in enumerate(list(parkings.items())[13:19]) :
-    for parking_name_tot, placestot in parkingstot.items():
+for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[13:19]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[2,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 axs[2,0].set_xlabel('Temps')
@@ -66,8 +48,8 @@ axs[2,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
 # Quatrième graphique
 axs[2,3].set_title('Nombre de places disponibles par parking en pourcentage')
-for i, (parking_name, places) in enumerate(list(parkings.items())[19:25]) :
-    for parking_name_tot, placestot in parkingstot.items():
+for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[19:25]) :
+    for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[2,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 axs[2,3].set_xlabel('Temps')
