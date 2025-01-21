@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import mplcursors, json
+import json
 from module import * 
 
 with open('données/Voiture/21.01.14h.json', 'r') as file:
@@ -71,3 +71,5 @@ fig.subplots_adjust(right=0.7)
 
 # Afficher le graphique
 plt.show()
+
+MEF(tableaucor(chargevoiture(data)))

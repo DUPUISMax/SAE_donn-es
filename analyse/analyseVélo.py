@@ -72,7 +72,7 @@ fig1.subplots_adjust(right=0.7)
 # Afficher le graphique
 plt.show()
 
-
+MEF(tableaucor(chargeveloplace(data)))
 # Création de l'image 2
 fig2, axs2 = plt.subplots(3, 4, figsize=(14, 7))  # 3 lignes, 4 colonne
 
@@ -134,3 +134,4 @@ fig2.subplots_adjust(right=0.7)
 # Afficher le graphique
 plt.show()
 
+MEF(tableaucor(chargevelodispo(data)))

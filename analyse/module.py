@@ -43,7 +43,10 @@ def correlationmatrice (t):
     tableau=[]
     for j in range (len(t)):
         for k in range(len(t)):
-            tab1.append(round(correlation(t[j],t[k]),6))
+            if variance(t[j])==0 or variance(t[k])==0:
+                tab1.append(0)
+            else: 
+                tab1.append(round(correlation(t[j],t[k]),6))
         tableau.append(tab1)
         tab1=[]
     return tableau
@@ -54,12 +57,8 @@ def MEF (t):
     plot.imshow(tableau, cmap='Blues')
     plot.colorbar()
     tab=[]
-    for i in range (len(t)):
-        nom+=str(i+1)
-        tab.append(nom)
     for i, col_name in enumerate(tab):
         plot.text(0.04+i*0.08,1.01, col_name, transform=plot.gca().transAxes)
-    
     for j, lig_name in enumerate(tab):
         plot.text(1.01,0.92-j*0.08,lig_name,transform=plot.gca().transAxes)
     plot.show()
@@ -119,3 +118,10 @@ def chargevelodispo(data):
                 velo[parking_name] = []
             velo[parking_name].append(parking_info['velodispo'])
     return velo
+
+# Fonction qui crée un tableau de tableau de places disponibles pour chaque parking
+def tableaucor(dico):
+    tab=[]
+    for cle,valeur in dico.items():
+        tab.append(valeur)
+    return tab
