@@ -45,7 +45,7 @@ while int(time.time())-debut< 60*temps:
     print("ok")
     time.sleep(te*60)
      
-with open(fichiersvelo, 'w') as filevelo:
+with open(fichiersvelo, 'w', encoding="utf-8") as filevelo:
     json.dump(listevelo, filevelo, ensure_ascii=False, indent=4)
 
 with open(fichierstps, 'w') as filevelo2:
