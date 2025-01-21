@@ -1,8 +1,7 @@
-from module import * 
 import matplotlib.pyplot as plt
-import json, mplcursors
+import mplcursors, json
+from module import * 
 
-# Charger les données du fichier JSON
 with open('données/Voiture/test2.json', 'r') as file:
     data = json.load(file)
 
@@ -23,34 +22,70 @@ for entry in data:
             parkings[parking_name] = []
         parkings[parking_name].append(parking_info['place'])
 
-for entry in data3: 
+# Récupérer les places totales de chaque parking
+for entry in data3:
     for parking_name, parking_info in entry.items():
         if parking_name not in parkingstot:
             parkingstot[parking_name] = []
         parkingstot[parking_name].append(parking_info['placetotal'])
 
-#print(parkings)
-# Afficher les places pour chaque parking
-#for parking_name, places in parkings.items():
-#    print(courbe(data2,places, parking_name)):
+# Création de l'image
+fig, axs = plt.subplots(3, 4, figsize=(12, 12))  # 3 lignes, 4 colonne
 
-plt.figure(figsize=(12, 6))
-for parking_name, places in parkings.items():
-    for parking_name_tot, placestot  in parkingstot.items():
-        if parking_name == parking_name_tot:   
-            plt.plot(data2,pourcentage(places, placestot[0]), label=parking_name,)
+# Premier graphique
+axs[0,0].set_title('Nombre de places disponibles par parking en pourcentage')
 
+for i, (parking_name, places) in enumerate(list(parkings.items())[:6]) :
+    for parking_name_tot, placestot in parkingstot.items():
+        if parking_name == parking_name_tot:
+            axs[0,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 
-plt.xlabel('Temps')
-plt.ylabel('Places disponibles')
+axs[0,0].set_xlabel('Temps')
+axs[0,0].set_ylabel('Places disponibles')
+axs[0,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-plt.legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
+# Deuxième graphique
+axs[0,3].set_title('Nombre de places disponibles par parking en pourcentage')
+for i, (parking_name, places) in enumerate(list(parkings.items())[7:13]) :
+    for parking_name_tot, placestot in parkingstot.items():
+        if parking_name == parking_name_tot:
+            axs[0,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs[0,3].set_xlabel('Temps')
+axs[0,3].set_ylabel('Places disponibles')
+axs[0,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-fig = plt.gcf()  # Récupérer la figure actuelle
-fig.subplots_adjust(right=0.7)  # Ajuster la taille du graphique pour laisser de la place à la légende
-plt.title('Nombre de places disponibles par parking')
+# Troisième graphique
+axs[2,0].set_title('Nombre de places disponibles par parking en pourcentage')
+for i, (parking_name, places) in enumerate(list(parkings.items())[13:19]) :
+    for parking_name_tot, placestot in parkingstot.items():
+        if parking_name == parking_name_tot:
+            axs[2,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs[2,0].set_xlabel('Temps')
+axs[2,0].set_ylabel('Places disponibles')
+axs[2,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-cursor = mplcursors.cursor(hover=True)
-cursor.connect("add", lambda sel: sel.annotation.set_text(sel.artist.get_label()))
+# Quatrième graphique
+axs[2,3].set_title('Nombre de places disponibles par parking en pourcentage')
+for i, (parking_name, places) in enumerate(list(parkings.items())[19:25]) :
+    for parking_name_tot, placestot in parkingstot.items():
+        if parking_name == parking_name_tot:
+            axs[2,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+axs[2,3].set_xlabel('Temps')
+axs[2,3].set_ylabel('Places disponibles')
+axs[2,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
+# Laisser ligne et colonne vide vide
+fig.delaxes(axs[0, 1])
+fig.delaxes(axs[0, 2])
+fig.delaxes(axs[1, 1])
+fig.delaxes(axs[1, 2])
+fig.delaxes(axs[1, 0])
+fig.delaxes(axs[2, 1])
+fig.delaxes(axs[2, 2])
+fig.delaxes(axs[1, 3])
+
+# Ajuster la taille du graphique pour laisser de la place à la légende
+fig.subplots_adjust(right=0.7)
+
+# Afficher le graphique
 plt.show()
