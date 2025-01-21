@@ -1,6 +1,7 @@
 from math import *
-import json
+import json, mplcursors
 import matplotlib.pyplot as plot
+import numpy as np
 
 #fonction pour faire la moyenne d'un tableau
 def moyenne(t):
@@ -37,31 +38,6 @@ def correlation(t1,t2):
     corre=abs(covariance(t1,t2)/ecart)
     return corre
 
-#fonction pour faire la matrice de corrélation d'un tableau de tableaux en réutilisant la fonction correlation sans mise en forme (un tableau de tableaux)
-def correlationmatrice (t):
-    tab1=[]
-    tableau=[]
-    for j in range (len(t)):
-        for k in range(len(t)):
-            if variance(t[j])==0 or variance(t[k])==0:
-                tab1.append(0)
-            else: 
-                tab1.append(round(correlation(t[j],t[k]),6))
-        tableau.append(tab1)
-        tab1=[]
-    return tableau
-
-#fonction de mise en forme de la matrice de corrélation (je n'ai pas utilisé d'heatmap mais imshow)
-def MEF (t):
-    tableau=correlationmatrice(t)
-    plot.imshow(tableau, cmap='Blues')
-    plot.colorbar()
-    tab=[]
-    for i, col_name in enumerate(tab):
-        plot.text(0.04+i*0.08,1.01, col_name, transform=plot.gca().transAxes)
-    for j, lig_name in enumerate(tab):
-        plot.text(1.01,0.92-j*0.08,lig_name,transform=plot.gca().transAxes)
-    plot.show()
 
 #fonction pour faire une courbe de suivi d'une donnée
 def courbe(x,y,nom):
@@ -125,3 +101,50 @@ def tableaucor(dico):
     for cle,valeur in dico.items():
         tab.append(valeur)
     return tab
+
+#fonction pour faire la matrice de corrélation d'un tableau de tableaux en réutilisant la fonction correlation sans mise en forme (un tableau de tableaux)
+def correlationmatrice (t):
+    tableau=[]
+    for j in range (len(t)):
+        tab1=[]
+        for k in range(len(t)):
+            if variance(t[j])==0 or variance(t[k])==0:
+                tab1.append(0)
+            else: 
+                tab1.append(round(correlation(t[j],t[k]),6))
+        tableau.append(tab1)
+    return tableau
+
+
+def analysecroisee (t1, t2):
+    tableau=[]
+    for j in range (len(t1)):
+        tab1=[]
+        for k in range(len(t2)):
+            if variance(t1[j])==0 or variance(t2[k])==0:
+                tab1.append(0)
+            else: 
+                tab1.append(round(correlation(t1[j],t2[k]),6))
+        tableau.append(tab1)
+        tab1=[]
+    return tableau
+
+#fonction de mise en forme de la matrice de corrélation (je n'ai pas utilisé d'heatmap mais imshow)
+def MEF (data):
+    tableau=correlationmatrice(tableaucor(chargevoiture(data)))
+    fig, ax = plot.subplots()
+    cax = ax.imshow(tableau, cmap='Blues')
+    fig.colorbar(cax)
+    labels = []
+    for entry in data:
+        for parking_name, parking_info in entry.items():
+            labels.append(parking_name)
+    cursor = mplcursors.cursor(cax, hover=True)
+    cursor.connect("add", lambda sel: sel.annotation.set_text(labels[sel.target.index[1]]))
+    plot.show()
+
+def MEFcroisee (t1,t2):
+    tableau=analysecroisee(t1,t2)
+    plot.imshow(tableau, cmap='Blues')
+    plot.colorbar()
+    plot.show()
