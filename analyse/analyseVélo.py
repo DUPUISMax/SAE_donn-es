@@ -4,9 +4,9 @@ from module import *
 
 with open('données/Vélo/21.01.14h.json', 'r') as file:
     data = json.load(file)
-
-with open('données/Temps/21.01.14h.json', 'r') as file:
-    data2 = json.load(file)
+    
+repetition = len(data)
+data2 = tempsConversion("21.01.14h00", repetition)
 
 with open('données/Vélo/placeTotal/placeTotalVélo.json', 'r') as file:
     data3 = json.load(file)

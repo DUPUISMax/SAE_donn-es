@@ -7,9 +7,6 @@ fichierVoiture = "21.01.14h.json"
 with open('données/Voiture/'+fichierVoiture, 'r') as file:
     data = json.load(file)
 
-with open('données/Temps/21.01.14h.json', 'r') as file:
-    data2 = json.load(file)
-
 with open('données/Voiture/placeTotal/placeTotalVoiture.json', 'r') as file:
     data3 = json.load(file)
 
@@ -65,6 +62,7 @@ for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[13:
     for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[2,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
+
 axs[2,0].set_xlabel('Temps')
 axs[2,0].set_ylabel('Places disponibles')
 axs[2,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
@@ -111,5 +109,6 @@ fig.subplots_adjust(right=0.7)
 # Afficher le graphique
 plt.show()
 
+# curseur sur la heatmap
 MEF(data)
 
