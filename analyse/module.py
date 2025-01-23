@@ -144,9 +144,20 @@ def MEF (data):
     plot.show()
 
 def MEFcroisee (t1,t2):
-    tableau=analysecroisee(t1,t2)
-    plot.imshow(tableau, cmap='Blues')
-    plot.colorbar()
+    tableau=analysecroisee(tableaucor(chargevoiture(t1)),tableaucor(chargevelodispo(t2)))
+    fig, ax = plot.subplots()
+    cax = ax.imshow(tableau, cmap='Blues')
+    fig.colorbar(cax)
+    velo = []
+    for entry in t1:
+        for parking_name, parking_info in entry.items():
+            velo.append(parking_name)
+    voiture = []
+    for entry in t2:
+        for parking_name, parking_info in entry.items():
+            voiture.append(parking_name)
+    cursor = mplcursors.cursor(cax, hover=True)
+    cursor.connect("add", lambda sel: sel.annotation.set_text(f"{voiture[int(sel.target[0])]} vs {velo[int(sel.target[1])]}\nCorrélation: {tableau[int(sel.target[0])][int(sel.target[1])]}"))
     plot.show()
     
 def tempsConversion(chaine, repet):
