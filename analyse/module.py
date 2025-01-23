@@ -173,8 +173,8 @@ def tempsConversion(chaine, repet):
         # Ajouter le temps actuel dans la liste
         temps.append(f"{heures:02}h{minutes:02}")
         
-        # Ajouter 5 minutes
-        minutes += 5
+        # Ajouter 10 minutes
+        minutes += 10
         
         # Gérer les minutes > 60
         if minutes >= 60:
