@@ -145,6 +145,7 @@ def MEF (data):
 
 def MEFcroisee (t1,t2):
     tableau=analysecroisee(tableaucor(chargevoiture(t1)),tableaucor(chargevelodispo(t2)))
+    tableau=analysecroisee(t1,t2)
     fig, ax = plot.subplots()
     cax = ax.imshow(tableau, cmap='Blues')
     fig.colorbar(cax)
