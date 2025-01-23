@@ -178,11 +178,11 @@ def tempsConversion(chaine, repet):
     # Afficher la liste résultante
     return temps
 
-def affichageDuree(x,y,repetition, temps, duree):
+def affichageDuree(x,y,repetition, duree, axe):
     # Sélectionner les ticks à afficher (chaque 5ème élément)
-    interval = 6  # Afficher tous les 5 éléments
-    ticks_to_display = duree[:len(duree):interval]  # Sélectionner tous les 5 éléments de data2
-    plt.setp(axs[0, 0].xaxis.get_majorticklabels(), rotation=45, ha="right")
+    interval = repetition  # Afficher tous les repetition éléments
+    ticks_to_display = duree[:len(duree):interval]  # Sélectionner tous les repetitions éléments de data2
+    plot.setp(axe[x, y].xaxis.get_majorticklabels(), rotation=45, ha="right")
 
     # Appliquer les ticks à l'axe des x
-    axs[0, 0].set_xticks(ticks_to_display)
+    axe[x, y].set_xticks(ticks_to_display)

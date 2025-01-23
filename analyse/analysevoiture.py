@@ -24,14 +24,6 @@ for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[:6]
         if parking_name == parking_name_tot:
             axs[0,0].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
 
-# Sélectionner les ticks à afficher (chaque 5ème élément)
-interval = 6  # Afficher tous les 5 éléments
-ticks_to_display = data2[:len(data2):interval]  # Sélectionner tous les 5 éléments de data2
-plt.setp(axs[0, 0].xaxis.get_majorticklabels(), rotation=45, ha="right")
-
-# Appliquer les ticks à l'axe des x
-axs[0, 0].set_xticks(ticks_to_display)
-
 axs[0,0].set_xlabel('Temps')
 axs[0,0].set_ylabel('Places disponibles')
 axs[0,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
@@ -43,14 +35,6 @@ for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[7:1
     for parking_name_tot, placestot in chargetotal(data3).items():
         if parking_name == parking_name_tot:
             axs[0,3].plot(data2, pourcentage(places, placestot[0]), label=parking_name)
-            
-# Sélectionner les ticks à afficher (chaque 6ème élément)
-interval = 6  # Afficher tous les 6 éléments
-ticks_to_display = data2[:len(data2):interval]  # Sélectionner tous les 5 éléments de data2
-plt.setp(axs[0, 3].xaxis.get_majorticklabels(), rotation=45, ha="right")
-
-# Appliquer les ticks à l'axe des x
-axs[0, 3].set_xticks(ticks_to_display)
 
 axs[0,3].set_xlabel('Temps')
 axs[0,3].set_ylabel('Places disponibles')
@@ -67,14 +51,6 @@ axs[2,0].set_xlabel('Temps')
 axs[2,0].set_ylabel('Places disponibles')
 axs[2,0].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-# Sélectionner les ticks à afficher (chaque 6ème élément)
-interval = 6  # Afficher tous les 6 éléments
-ticks_to_display = data2[:len(data2):interval]  # Sélectionner tous les 5 éléments de data2
-plt.setp(axs[2,0].xaxis.get_majorticklabels(), rotation=45, ha="right")
-
-# Appliquer les ticks à l'axe des x
-axs[2,0].set_xticks(ticks_to_display)
-
 # Quatrième graphique
 axs[2,3].set_title('Nombre de places disponibles par parking en pourcentage')
 for i, (parking_name, places) in enumerate(list(chargevoiture(data).items())[19:25]) :
@@ -85,13 +61,12 @@ axs[2,3].set_xlabel('Temps')
 axs[2,3].set_ylabel('Places disponibles')
 axs[2,3].legend(loc='upper left', bbox_to_anchor=(1, 1), ncol=2)
 
-# Sélectionner les ticks à afficher (chaque 6ème élément)
-interval = 6  # Afficher tous les 6 éléments
-ticks_to_display = data2[:len(data2):interval]  # Sélectionner tous les 5 éléments de data2
-plt.setp(axs[2,3].xaxis.get_majorticklabels(), rotation=45, ha="right")
 
-# Appliquer les ticks à l'axe des x
-axs[2,3].set_xticks(ticks_to_display)
+# appel d'une fonction permettant l'affichage de la durée de la simulation de manière plus lisible
+affichageDuree(0,0,6,data2,axs)
+affichageDuree(0,3,6,data2,axs)
+affichageDuree(2,0,6,data2,axs)
+affichageDuree(2,3,6,data2,axs)
 
 # Laisser ligne et colonne vide vide
 fig.delaxes(axs[0, 1])
