@@ -1,0 +1,6590 @@
+[
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-21T22:26:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 433,
+            "date": "2025-01-21T22:25:08.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-21T22:26:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 494,
+            "date": "2025-01-21T22:26:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 193,
+            "date": "2025-01-21T22:25:30.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-21T22:30:07.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-21T22:25:17.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 441,
+            "date": "2025-01-21T22:24:56.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1116,
+            "date": "2025-01-21T22:27:57.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T22:28:58.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T22:28:09.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-21T22:26:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 320,
+            "date": "2025-01-21T22:24:54.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 268,
+            "date": "2025-01-21T22:29:54.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T22:25:59.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 532,
+            "date": "2025-01-21T22:24:51.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-21T22:27:58.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 106,
+            "date": "2025-01-21T22:26:25.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 170,
+            "date": "2025-01-21T22:26:25.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 70,
+            "date": "2025-01-21T22:24:54.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1601,
+            "date": "2025-01-21T22:28:43.702Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 78,
+            "date": "2025-01-21T22:24:50.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 464,
+            "date": "2025-01-21T22:26:25.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-21T22:38:55.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 443,
+            "date": "2025-01-21T22:35:05.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 327,
+            "date": "2025-01-21T22:38:59.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 495,
+            "date": "2025-01-21T22:38:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 196,
+            "date": "2025-01-21T22:35:29.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 253,
+            "date": "2025-01-21T22:40:07.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 334,
+            "date": "2025-01-21T22:35:17.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 444,
+            "date": "2025-01-21T22:34:54.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1116,
+            "date": "2025-01-21T22:37:53.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T22:38:58.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T22:38:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-21T22:36:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 320,
+            "date": "2025-01-21T22:34:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T22:39:52.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T22:35:51.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 534,
+            "date": "2025-01-21T22:34:58.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T22:37:59.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 106,
+            "date": "2025-01-21T22:36:25.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 168,
+            "date": "2025-01-21T22:36:25.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 70,
+            "date": "2025-01-21T22:34:56.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1607,
+            "date": "2025-01-21T22:38:05.217Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 82,
+            "date": "2025-01-21T22:34:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 465,
+            "date": "2025-01-21T22:36:25.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-21T22:47:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 450,
+            "date": "2025-01-21T22:45:06.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 328,
+            "date": "2025-01-21T22:47:51.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 495,
+            "date": "2025-01-21T22:47:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 197,
+            "date": "2025-01-21T22:45:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 249,
+            "date": "2025-01-21T22:50:08.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 336,
+            "date": "2025-01-21T22:45:17.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 457,
+            "date": "2025-01-21T22:45:02.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1120,
+            "date": "2025-01-21T22:47:50.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T22:48:58.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T22:48:14.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-21T22:46:56.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 320,
+            "date": "2025-01-21T22:44:59.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T22:49:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T22:45:50.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 534,
+            "date": "2025-01-21T22:44:54.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T22:47:49.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 106,
+            "date": "2025-01-21T22:46:26.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 175,
+            "date": "2025-01-21T22:46:26.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 71,
+            "date": "2025-01-21T22:44:59.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1620,
+            "date": "2025-01-21T22:48:29.480Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 90,
+            "date": "2025-01-21T22:49:57.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 467,
+            "date": "2025-01-21T22:46:26.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-21T22:56:59.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 459,
+            "date": "2025-01-21T22:55:10.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 335,
+            "date": "2025-01-21T22:59:57.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 496,
+            "date": "2025-01-21T22:56:56.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 197,
+            "date": "2025-01-21T22:55:30.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 243,
+            "date": "2025-01-21T23:00:08.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 341,
+            "date": "2025-01-21T22:55:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 464,
+            "date": "2025-01-21T22:55:00.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1123,
+            "date": "2025-01-21T22:57:47.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T22:58:56.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T22:58:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-21T22:56:50.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 322,
+            "date": "2025-01-21T22:54:50.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T22:59:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T22:55:58.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 536,
+            "date": "2025-01-21T22:54:50.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T22:57:49.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 106,
+            "date": "2025-01-21T22:56:27.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 181,
+            "date": "2025-01-21T22:56:27.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 73,
+            "date": "2025-01-21T22:54:50.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1634,
+            "date": "2025-01-21T22:58:53.564Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 96,
+            "date": "2025-01-21T22:59:52.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 471,
+            "date": "2025-01-21T22:56:27.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 144,
+            "date": "2025-01-21T23:08:57.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 465,
+            "date": "2025-01-21T23:05:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 336,
+            "date": "2025-01-21T23:08:57.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 496,
+            "date": "2025-01-21T23:08:51.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 200,
+            "date": "2025-01-21T23:05:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 286,
+            "date": "2025-01-21T23:10:08.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 344,
+            "date": "2025-01-21T23:05:20.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 474,
+            "date": "2025-01-21T23:04:57.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1125,
+            "date": "2025-01-21T23:07:46.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T23:08:54.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:08:09.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 212,
+            "date": "2025-01-21T23:06:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 322,
+            "date": "2025-01-21T23:04:55.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T23:09:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T23:05:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 536,
+            "date": "2025-01-21T23:04:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T23:07:50.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 107,
+            "date": "2025-01-21T23:06:30.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 186,
+            "date": "2025-01-21T23:06:30.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 73,
+            "date": "2025-01-21T23:04:55.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1635,
+            "date": "2025-01-21T23:08:15.113Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 110,
+            "date": "2025-01-21T23:09:58.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 472,
+            "date": "2025-01-21T23:06:30.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-21T23:17:53.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 481,
+            "date": "2025-01-21T23:15:13.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 340,
+            "date": "2025-01-21T23:17:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-21T23:17:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 205,
+            "date": "2025-01-21T23:15:31.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 297,
+            "date": "2025-01-21T23:20:08.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:15:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 475,
+            "date": "2025-01-21T23:14:54.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1127,
+            "date": "2025-01-21T23:17:43.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T23:18:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:18:13.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 212,
+            "date": "2025-01-21T23:16:54.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 323,
+            "date": "2025-01-21T23:14:59.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T23:19:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T23:15:54.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 541,
+            "date": "2025-01-21T23:14:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T23:17:50.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 107,
+            "date": "2025-01-21T23:16:23.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 187,
+            "date": "2025-01-21T23:16:23.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 76,
+            "date": "2025-01-21T23:14:59.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1648,
+            "date": "2025-01-21T23:18:39.196Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 112,
+            "date": "2025-01-21T23:14:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 476,
+            "date": "2025-01-21T23:16:23.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-21T23:26:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 484,
+            "date": "2025-01-21T23:25:14.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 340,
+            "date": "2025-01-21T23:26:58.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-21T23:26:54.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-21T23:25:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 299,
+            "date": "2025-01-21T23:30:08.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 352,
+            "date": "2025-01-21T23:25:14.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 477,
+            "date": "2025-01-21T23:25:03.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1128,
+            "date": "2025-01-21T23:27:42.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-21T23:28:54.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:28:08.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-21T23:26:57.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-21T23:24:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T23:29:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T23:25:53.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 541,
+            "date": "2025-01-21T23:24:50.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T23:27:51.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-21T23:26:27.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 193,
+            "date": "2025-01-21T23:26:27.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-21T23:24:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1660,
+            "date": "2025-01-21T23:28:00.929Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 113,
+            "date": "2025-01-21T23:24:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 478,
+            "date": "2025-01-21T23:26:27.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-21T23:38:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-21T23:35:06.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-21T23:38:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-21T23:38:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-21T23:35:31.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 300,
+            "date": "2025-01-21T23:40:09.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 353,
+            "date": "2025-01-21T23:35:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 478,
+            "date": "2025-01-21T23:34:59.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1129,
+            "date": "2025-01-21T23:37:40.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 330,
+            "date": "2025-01-21T23:38:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:38:11.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-21T23:36:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-21T23:34:55.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T23:39:59.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T23:35:51.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 545,
+            "date": "2025-01-21T23:34:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T23:37:52.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-21T23:36:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 195,
+            "date": "2025-01-21T23:36:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-21T23:34:55.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1668,
+            "date": "2025-01-21T23:38:25.054Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 114,
+            "date": "2025-01-21T23:34:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 480,
+            "date": "2025-01-21T23:36:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-21T23:47:53.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 496,
+            "date": "2025-01-21T23:45:10.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-21T23:47:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-21T23:47:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 210,
+            "date": "2025-01-21T23:45:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 302,
+            "date": "2025-01-21T23:50:09.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-21T23:45:20.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 480,
+            "date": "2025-01-21T23:44:57.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1129,
+            "date": "2025-01-21T23:47:37.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 330,
+            "date": "2025-01-21T23:48:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:48:15.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-21T23:46:50.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-21T23:44:58.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T23:49:58.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-21T23:45:50.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 545,
+            "date": "2025-01-21T23:44:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T23:47:52.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-21T23:46:23.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-21T23:46:23.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-21T23:44:58.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1671,
+            "date": "2025-01-21T23:48:49.290Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 116,
+            "date": "2025-01-21T23:44:56.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 486,
+            "date": "2025-01-21T23:46:23.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-21T23:56:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-21T23:55:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 349,
+            "date": "2025-01-21T23:56:51.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 497,
+            "date": "2025-01-21T23:56:57.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-21T23:55:31.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 303,
+            "date": "2025-01-22T00:00:09.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 356,
+            "date": "2025-01-21T23:55:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 482,
+            "date": "2025-01-21T23:54:55.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1130,
+            "date": "2025-01-21T23:57:35.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-21T23:58:55.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-21T23:58:09.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-21T23:56:51.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-21T23:54:51.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-21T23:59:56.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-21T23:55:58.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 547,
+            "date": "2025-01-21T23:54:59.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-21T23:57:53.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-21T23:56:25.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 220,
+            "date": "2025-01-21T23:56:25.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-21T23:54:51.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1676,
+            "date": "2025-01-21T23:58:10.865Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 120,
+            "date": "2025-01-21T23:54:57.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 488,
+            "date": "2025-01-21T23:56:25.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T00:08:51.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 505,
+            "date": "2025-01-22T00:05:14.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 349,
+            "date": "2025-01-22T00:08:57.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:08:51.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:05:30.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 305,
+            "date": "2025-01-22T00:10:09.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 356,
+            "date": "2025-01-22T00:05:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 484,
+            "date": "2025-01-22T00:04:53.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1133,
+            "date": "2025-01-22T00:07:32.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-22T00:08:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:08:16.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:06:53.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T00:04:55.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T00:09:56.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:05:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T00:04:52.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T00:07:53.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T00:06:27.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 223,
+            "date": "2025-01-22T00:06:27.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T00:05:05.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1679,
+            "date": "2025-01-22T00:08:34.910Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 127,
+            "date": "2025-01-22T00:04:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 489,
+            "date": "2025-01-22T00:06:27.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T00:17:57.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 509,
+            "date": "2025-01-22T00:15:06.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:17:49.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:17:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:15:33.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 306,
+            "date": "2025-01-22T00:20:09.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 356,
+            "date": "2025-01-22T00:15:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T00:15:01.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1134,
+            "date": "2025-01-22T00:17:32.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-22T00:18:49.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:18:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:16:54.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T00:19:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T00:19:56.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:15:54.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T00:14:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T00:17:54.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T00:16:27.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 225,
+            "date": "2025-01-22T00:16:27.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T00:15:00.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1677,
+            "date": "2025-01-22T00:18:58.907Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T00:19:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 489,
+            "date": "2025-01-22T00:16:27.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T00:26:55.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 511,
+            "date": "2025-01-22T00:25:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 352,
+            "date": "2025-01-22T00:26:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:26:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 210,
+            "date": "2025-01-22T00:25:34.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 305,
+            "date": "2025-01-22T00:30:40.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 357,
+            "date": "2025-01-22T00:25:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 490,
+            "date": "2025-01-22T00:24:59.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1136,
+            "date": "2025-01-22T00:27:29.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-22T00:28:54.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:28:09.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:26:57.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T00:24:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T00:29:57.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:25:53.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T00:24:54.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T00:27:55.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T00:26:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 230,
+            "date": "2025-01-22T00:26:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T00:24:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1678,
+            "date": "2025-01-22T00:28:40.933Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T00:24:56.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 493,
+            "date": "2025-01-22T00:26:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T00:38:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 512,
+            "date": "2025-01-22T00:35:10.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 354,
+            "date": "2025-01-22T00:38:58.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:38:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:35:33.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 305,
+            "date": "2025-01-22T00:40:09.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T00:35:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 490,
+            "date": "2025-01-22T00:34:55.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1136,
+            "date": "2025-01-22T00:37:56.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T00:38:49.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:38:16.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:36:58.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T00:34:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T00:39:57.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:35:51.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T00:34:50.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T00:37:55.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T00:36:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 238,
+            "date": "2025-01-22T00:36:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T00:34:57.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1681,
+            "date": "2025-01-22T00:38:02.695Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:34:50.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:36:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T00:47:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 513,
+            "date": "2025-01-22T00:45:14.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 354,
+            "date": "2025-01-22T00:47:50.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:47:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 211,
+            "date": "2025-01-22T00:45:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 307,
+            "date": "2025-01-22T00:50:10.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T00:45:15.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 492,
+            "date": "2025-01-22T00:45:02.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1139,
+            "date": "2025-01-22T00:47:50.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T00:48:56.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:48:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 210,
+            "date": "2025-01-22T00:46:49.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T00:44:59.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T00:49:56.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:45:50.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 548,
+            "date": "2025-01-22T00:44:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T00:47:56.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T00:46:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 245,
+            "date": "2025-01-22T00:46:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T00:44:59.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1687,
+            "date": "2025-01-22T00:48:26.813Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T00:49:51.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T00:46:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T00:56:51.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 512,
+            "date": "2025-01-22T00:55:13.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T00:59:57.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T00:56:50.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 212,
+            "date": "2025-01-22T00:55:30.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T01:00:10.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T00:55:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 493,
+            "date": "2025-01-22T00:54:59.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1139,
+            "date": "2025-01-22T00:57:45.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T00:58:51.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T00:58:08.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 210,
+            "date": "2025-01-22T00:56:50.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T00:54:50.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T00:59:53.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T00:55:52.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 548,
+            "date": "2025-01-22T00:55:00.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T00:57:56.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T00:56:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T00:56:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T00:54:50.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1687,
+            "date": "2025-01-22T00:58:50.717Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T00:59:56.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T00:56:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T01:08:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 518,
+            "date": "2025-01-22T01:05:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 356,
+            "date": "2025-01-22T01:08:51.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:08:57.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T01:05:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T01:10:10.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T01:05:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 495,
+            "date": "2025-01-22T01:04:56.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1139,
+            "date": "2025-01-22T01:07:43.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T01:08:57.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T01:08:16.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 210,
+            "date": "2025-01-22T01:06:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T01:04:54.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T01:09:52.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T01:05:54.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T01:04:50.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T01:07:57.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T01:06:30.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T01:06:30.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T01:04:54.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1685,
+            "date": "2025-01-22T01:08:12.965Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T01:04:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T01:06:30.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T01:17:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 520,
+            "date": "2025-01-22T01:15:06.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 357,
+            "date": "2025-01-22T01:17:54.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:17:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T01:15:36.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T01:20:10.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T01:15:19.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 497,
+            "date": "2025-01-22T01:15:03.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1139,
+            "date": "2025-01-22T01:17:39.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T01:18:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T01:18:13.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T01:16:53.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T01:14:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T01:19:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T01:15:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T01:14:58.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T01:17:58.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T01:16:30.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T01:16:30.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T01:14:57.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1690,
+            "date": "2025-01-22T01:18:37.054Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T01:14:58.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T01:16:30.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T01:26:59.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 520,
+            "date": "2025-01-22T01:25:09.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T01:26:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:26:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T01:25:36.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T01:30:10.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T01:25:19.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T01:24:59.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1140,
+            "date": "2025-01-22T01:27:36.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T01:28:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T01:28:10.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T01:26:54.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T01:24:51.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T01:29:59.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T01:25:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T01:24:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T01:27:58.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T01:26:27.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T01:26:27.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T01:24:51.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1692,
+            "date": "2025-01-22T01:29:01.110Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T01:24:51.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T01:26:27.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T01:38:56.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T01:35:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T01:38:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:38:56.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T01:35:36.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T01:40:11.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T01:35:20.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:35:17.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1140,
+            "date": "2025-01-22T01:37:32.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T01:38:55.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T01:38:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T01:36:56.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T01:34:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T01:39:49.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T01:35:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T01:34:55.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T01:37:59.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T01:36:24.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T01:36:24.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T01:34:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1692,
+            "date": "2025-01-22T01:38:22.676Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T01:34:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T01:36:24.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T01:47:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T01:45:13.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T01:47:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:47:57.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T01:45:38.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T01:50:41.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T01:45:14.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:45:04.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1140,
+            "date": "2025-01-22T01:47:30.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T01:48:50.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T01:48:11.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T01:46:58.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T01:44:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T01:49:50.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T01:45:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T01:44:54.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T01:48:00.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T01:46:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T01:46:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T01:44:56.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1693,
+            "date": "2025-01-22T01:48:46.751Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T01:49:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T01:46:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T01:56:58.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T01:55:12.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T01:59:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:56:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T01:55:40.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T02:00:11.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T01:55:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T01:55:01.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1142,
+            "date": "2025-01-22T01:57:58.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T01:58:55.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T01:58:15.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T01:56:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T01:54:58.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T01:59:50.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T01:55:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T01:54:56.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T01:57:49.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T01:56:30.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T01:56:30.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T01:54:58.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1691,
+            "date": "2025-01-22T01:58:08.453Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T01:54:52.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T01:56:30.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T02:08:59.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T02:05:09.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T02:08:55.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:08:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 213,
+            "date": "2025-01-22T02:05:40.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T02:10:42.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T02:05:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:04:58.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T02:07:56.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T02:08:50.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T02:08:10.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T02:06:54.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T02:04:52.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T02:09:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T02:05:58.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T02:04:58.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T02:07:50.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T02:06:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T02:06:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T02:04:52.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1692,
+            "date": "2025-01-22T02:08:32.426Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T02:04:58.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T02:06:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T02:17:58.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 522,
+            "date": "2025-01-22T02:15:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T02:17:55.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:17:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T02:15:35.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T02:20:11.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T02:15:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:15:06.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T02:17:53.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T02:18:54.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T02:18:13.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 209,
+            "date": "2025-01-22T02:16:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T02:14:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T02:19:53.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T02:15:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T02:14:51.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 48,
+            "date": "2025-01-22T02:17:50.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T02:16:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T02:16:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T02:15:08.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1685,
+            "date": "2025-01-22T02:18:56.547Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T02:14:51.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T02:16:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T02:26:56.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 522,
+            "date": "2025-01-22T02:25:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T02:26:57.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:26:54.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T02:25:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T02:30:44.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T02:25:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:25:03.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T02:27:52.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T02:28:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T02:28:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T02:26:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T02:25:11.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T02:29:56.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T02:25:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T02:24:52.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T02:27:51.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T02:26:26.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T02:26:26.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T02:25:32.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1693,
+            "date": "2025-01-22T02:28:18.127Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T02:25:05.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T02:26:26.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T02:38:57.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 523,
+            "date": "2025-01-22T02:35:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T02:38:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:38:52.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T02:35:33.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T02:40:17.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T02:35:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:35:01.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T02:37:49.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T02:38:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T02:38:10.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T02:36:55.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T02:34:58.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T02:39:59.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T02:35:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T02:34:52.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T02:37:52.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T02:36:24.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T02:36:24.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T02:34:58.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1694,
+            "date": "2025-01-22T02:38:42.196Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T02:39:56.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T02:36:24.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T02:47:55.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 523,
+            "date": "2025-01-22T02:45:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T02:47:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:47:54.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T02:45:33.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T02:50:17.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T02:45:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:44:58.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T02:47:47.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T02:48:57.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T02:48:14.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T02:46:53.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T02:44:51.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T02:49:52.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T02:45:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T02:44:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T02:47:52.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T02:46:32.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T02:46:32.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T02:44:51.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1694,
+            "date": "2025-01-22T02:48:03.832Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T02:44:53.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T02:46:21.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T02:56:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 523,
+            "date": "2025-01-22T02:55:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T02:56:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:56:56.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T02:55:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T03:00:14.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T02:55:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:54:55.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T02:57:47.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T02:58:51.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T02:58:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T02:56:51.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T02:54:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T02:59:58.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T02:55:54.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T02:54:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T02:57:53.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T02:56:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T02:56:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T02:54:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1709,
+            "date": "2025-01-22T02:58:27.902Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T02:59:58.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T02:56:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T03:08:56.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 524,
+            "date": "2025-01-22T03:05:07.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T03:08:59.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T03:08:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T03:05:40.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T03:10:12.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T03:05:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T03:05:02.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T03:07:46.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T03:08:55.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T03:08:11.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T03:06:50.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T03:04:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T03:09:54.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T03:05:53.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T03:04:55.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T03:07:53.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T03:06:25.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Closed",
+            "place": 246,
+            "date": "2025-01-22T03:06:25.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T03:04:57.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1695,
+            "date": "2025-01-22T03:08:52.118Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T03:09:56.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T03:06:25.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T03:17:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 524,
+            "date": "2025-01-22T03:15:12.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T03:17:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T03:17:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T03:15:37.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T03:20:14.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T03:15:20.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T03:14:58.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T03:17:43.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T03:18:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T03:18:14.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T03:16:49.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T03:14:59.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T03:19:50.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T03:15:59.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T03:14:54.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T03:17:54.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T03:16:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Closed",
+            "place": 246,
+            "date": "2025-01-22T03:16:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T03:15:10.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1691,
+            "date": "2025-01-22T03:18:13.716Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T03:14:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T03:16:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T03:26:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 524,
+            "date": "2025-01-22T03:25:16.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T03:29:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T03:26:57.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T03:25:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T03:30:20.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T03:25:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T03:24:55.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T03:27:43.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T03:28:52.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T03:28:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T03:26:58.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T03:24:50.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T03:29:56.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T03:25:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T03:24:54.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T03:27:55.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T03:26:26.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Closed",
+            "place": 246,
+            "date": "2025-01-22T03:26:26.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T03:24:50.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1695,
+            "date": "2025-01-22T03:28:37.736Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T03:29:50.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T03:26:26.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T03:38:49.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 524,
+            "date": "2025-01-22T03:35:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T03:38:54.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T03:38:52.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T03:35:31.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T03:40:13.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T03:35:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T03:35:02.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T03:37:39.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T03:38:57.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T03:38:11.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T03:36:55.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T03:34:52.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T03:39:59.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T03:35:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T03:34:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T03:37:55.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T03:36:23.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Closed",
+            "place": 246,
+            "date": "2025-01-22T03:36:23.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T03:34:52.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1696,
+            "date": "2025-01-22T03:37:59.472Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T03:34:57.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T03:36:23.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T03:47:55.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T03:45:16.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T03:47:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T03:47:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T03:45:31.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T03:50:13.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T03:45:14.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T03:45:00.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T03:47:38.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T03:48:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T03:48:15.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T03:46:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T03:44:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T03:49:52.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T03:45:51.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T03:44:52.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T03:47:56.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Closed",
+            "place": 108,
+            "date": "2025-01-22T03:46:31.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Closed",
+            "place": 246,
+            "date": "2025-01-22T03:46:31.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T03:44:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1696,
+            "date": "2025-01-22T03:48:23.509Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T03:44:52.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Closed",
+            "place": 500,
+            "date": "2025-01-22T03:46:31.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T03:56:51.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T03:55:08.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T03:59:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T03:56:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T03:55:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T04:00:17.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T03:55:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T03:54:57.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T03:57:38.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T03:58:58.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T03:58:09.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T03:56:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T03:54:54.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T03:59:55.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T03:55:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T03:54:50.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T03:57:56.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Closed",
+            "place": 108,
+            "date": "2025-01-22T03:56:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Closed",
+            "place": 246,
+            "date": "2025-01-22T03:56:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T03:54:54.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1691,
+            "date": "2025-01-22T03:58:47.492Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T03:59:57.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Closed",
+            "place": 500,
+            "date": "2025-01-22T03:56:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T04:08:53.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T04:05:44.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T04:08:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:08:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T04:06:05.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 309,
+            "date": "2025-01-22T04:10:13.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T04:05:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T04:04:54.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T04:07:37.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T04:08:52.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T04:08:15.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T04:06:56.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T04:04:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T04:09:58.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T04:05:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T04:04:58.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T04:07:57.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T04:06:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 250,
+            "date": "2025-01-22T04:06:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T04:04:56.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1692,
+            "date": "2025-01-22T04:08:09.144Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T04:04:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T04:06:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T04:17:53.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T04:16:20.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T04:17:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:17:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T04:15:37.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 309,
+            "date": "2025-01-22T04:20:13.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T04:15:20.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T04:15:00.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T04:17:37.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T04:18:56.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 350,
+            "date": "2025-01-22T04:18:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T04:16:54.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T04:14:49.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T04:19:52.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T04:15:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T04:14:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T04:17:58.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T04:16:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 250,
+            "date": "2025-01-22T04:16:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T04:15:00.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1690,
+            "date": "2025-01-22T04:18:33.204Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T04:14:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T04:16:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T04:26:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T04:25:08.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T04:29:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:26:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T04:25:40.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 309,
+            "date": "2025-01-22T04:30:21.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T04:25:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:24:57.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T04:27:35.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T04:28:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T04:28:10.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T04:26:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T04:25:01.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T04:29:57.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T04:25:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T04:24:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T04:27:58.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T04:26:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 250,
+            "date": "2025-01-22T04:26:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T04:25:11.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1689,
+            "date": "2025-01-22T04:28:57.220Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T04:25:03.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T04:26:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T04:38:57.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 521,
+            "date": "2025-01-22T04:35:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T04:38:51.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:38:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T04:35:32.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 309,
+            "date": "2025-01-22T04:40:14.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T04:35:15.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:34:54.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T04:37:32.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T04:38:52.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T04:38:16.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 208,
+            "date": "2025-01-22T04:36:58.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 325,
+            "date": "2025-01-22T04:34:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T04:39:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T04:35:54.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T04:34:58.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T04:37:59.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T04:36:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 250,
+            "date": "2025-01-22T04:36:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T04:34:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1690,
+            "date": "2025-01-22T04:38:18.776Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T04:34:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T04:36:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T04:47:58.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 520,
+            "date": "2025-01-22T04:45:12.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T04:47:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T04:47:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T04:45:34.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T04:50:17.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T04:45:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:45:00.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T04:47:59.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T04:48:56.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T04:48:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 206,
+            "date": "2025-01-22T04:46:54.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-22T04:44:54.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T04:49:55.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T04:45:53.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T04:44:51.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T04:47:59.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T04:46:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 249,
+            "date": "2025-01-22T04:46:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T04:44:54.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1687,
+            "date": "2025-01-22T04:48:42.959Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T04:44:52.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T04:46:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T04:56:58.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 520,
+            "date": "2025-01-22T04:55:22.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T04:56:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T04:56:50.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T04:55:37.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 308,
+            "date": "2025-01-22T05:00:14.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T04:55:16.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T04:54:56.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T04:57:57.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T04:58:51.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T04:58:08.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 206,
+            "date": "2025-01-22T04:56:58.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-22T04:54:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T04:59:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T04:55:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T04:54:55.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T04:57:49.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T04:56:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 247,
+            "date": "2025-01-22T04:56:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T04:54:56.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1688,
+            "date": "2025-01-22T04:58:05.161Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T04:54:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T04:56:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T05:08:59.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 524,
+            "date": "2025-01-22T05:05:14.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T05:08:58.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T05:08:57.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 215,
+            "date": "2025-01-22T05:05:38.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 306,
+            "date": "2025-01-22T05:10:14.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 359,
+            "date": "2025-01-22T05:05:12.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T05:04:53.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T05:07:57.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T05:08:54.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T05:08:15.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 204,
+            "date": "2025-01-22T05:06:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-22T05:04:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T05:09:57.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T05:05:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T05:04:59.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T05:07:50.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T05:06:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T05:06:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T05:04:57.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1691,
+            "date": "2025-01-22T05:08:29.097Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T05:04:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T05:06:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T05:17:58.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 525,
+            "date": "2025-01-22T05:15:13.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T05:17:58.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T05:17:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 215,
+            "date": "2025-01-22T05:15:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 304,
+            "date": "2025-01-22T05:20:14.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T05:15:17.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T05:15:00.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T05:17:54.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T05:18:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T05:18:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 204,
+            "date": "2025-01-22T05:16:57.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-22T05:14:50.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T05:19:54.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T05:15:50.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T05:14:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T05:17:50.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T05:16:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T05:16:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T05:14:50.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1692,
+            "date": "2025-01-22T05:18:53.183Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T05:19:56.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T05:16:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T05:26:56.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 526,
+            "date": "2025-01-22T05:25:14.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T05:26:50.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T05:26:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 215,
+            "date": "2025-01-22T05:25:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 288,
+            "date": "2025-01-22T05:30:15.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T05:25:20.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T05:24:58.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T05:27:53.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T05:28:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T05:28:08.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 203,
+            "date": "2025-01-22T05:26:52.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-22T05:24:54.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T05:29:51.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T05:25:53.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 550,
+            "date": "2025-01-22T05:24:57.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T05:27:51.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T05:26:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 246,
+            "date": "2025-01-22T05:26:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T05:24:54.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1690,
+            "date": "2025-01-22T05:28:14.924Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T05:24:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T05:26:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T05:38:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 525,
+            "date": "2025-01-22T05:35:14.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T05:38:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T05:38:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 215,
+            "date": "2025-01-22T05:35:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 266,
+            "date": "2025-01-22T05:40:15.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T05:35:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T05:34:54.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T05:37:52.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T05:38:57.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 348,
+            "date": "2025-01-22T05:38:15.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 203,
+            "date": "2025-01-22T05:36:57.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 324,
+            "date": "2025-01-22T05:34:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T05:39:55.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T05:35:54.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T05:34:51.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T05:37:52.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 109,
+            "date": "2025-01-22T05:36:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 244,
+            "date": "2025-01-22T05:36:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 76,
+            "date": "2025-01-22T05:34:57.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1690,
+            "date": "2025-01-22T05:38:38.958Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T05:34:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T05:36:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T05:47:50.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 525,
+            "date": "2025-01-22T05:45:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T05:47:54.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T05:47:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 215,
+            "date": "2025-01-22T05:45:39.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 266,
+            "date": "2025-01-22T05:50:15.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 358,
+            "date": "2025-01-22T05:45:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T05:45:01.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T05:47:49.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T05:48:50.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 346,
+            "date": "2025-01-22T05:48:12.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 202,
+            "date": "2025-01-22T05:46:51.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 323,
+            "date": "2025-01-22T05:44:51.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T05:49:59.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T05:45:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 549,
+            "date": "2025-01-22T05:44:55.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T05:47:52.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T05:46:28.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 241,
+            "date": "2025-01-22T05:46:28.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 76,
+            "date": "2025-01-22T05:44:51.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1684,
+            "date": "2025-01-22T05:48:00.677Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T05:44:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T05:46:28.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T05:56:56.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 525,
+            "date": "2025-01-22T05:55:15.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T05:56:55.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T05:56:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T05:55:38.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 262,
+            "date": "2025-01-22T06:00:15.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 357,
+            "date": "2025-01-22T05:55:13.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T05:54:57.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T05:57:48.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T05:58:52.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 345,
+            "date": "2025-01-22T05:58:10.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 202,
+            "date": "2025-01-22T05:56:56.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 323,
+            "date": "2025-01-22T05:54:54.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T05:59:52.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T05:55:56.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 547,
+            "date": "2025-01-22T05:54:58.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T05:57:53.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T05:56:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 238,
+            "date": "2025-01-22T05:56:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 77,
+            "date": "2025-01-22T05:54:54.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1685,
+            "date": "2025-01-22T05:58:26.745Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T05:54:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T05:56:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T06:08:55.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 523,
+            "date": "2025-01-22T06:05:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 361,
+            "date": "2025-01-22T06:08:52.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 486,
+            "date": "2025-01-22T06:08:53.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 214,
+            "date": "2025-01-22T06:05:38.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 249,
+            "date": "2025-01-22T06:10:15.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T06:05:18.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T06:04:54.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T06:07:46.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T06:08:55.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 344,
+            "date": "2025-01-22T06:08:07.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 199,
+            "date": "2025-01-22T06:06:51.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 323,
+            "date": "2025-01-22T06:04:57.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 269,
+            "date": "2025-01-22T06:09:55.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 129,
+            "date": "2025-01-22T06:05:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 547,
+            "date": "2025-01-22T06:04:59.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T06:07:53.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T06:06:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 235,
+            "date": "2025-01-22T06:06:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 77,
+            "date": "2025-01-22T06:04:57.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1687,
+            "date": "2025-01-22T06:08:50.816Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T06:04:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T06:06:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 146,
+            "date": "2025-01-22T06:17:54.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 523,
+            "date": "2025-01-22T06:15:17.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 360,
+            "date": "2025-01-22T06:17:54.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 486,
+            "date": "2025-01-22T06:17:54.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 215,
+            "date": "2025-01-22T06:15:37.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 236,
+            "date": "2025-01-22T06:20:15.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T06:15:12.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T06:15:01.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T06:17:43.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T06:18:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 342,
+            "date": "2025-01-22T06:18:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 199,
+            "date": "2025-01-22T06:16:50.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 322,
+            "date": "2025-01-22T06:14:52.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 268,
+            "date": "2025-01-22T06:19:50.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 128,
+            "date": "2025-01-22T06:15:49.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 546,
+            "date": "2025-01-22T06:14:49.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T06:17:54.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T06:16:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 235,
+            "date": "2025-01-22T06:16:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 76,
+            "date": "2025-01-22T06:14:52.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1686,
+            "date": "2025-01-22T06:18:12.485Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T06:14:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T06:16:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 145,
+            "date": "2025-01-22T06:26:53.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 524,
+            "date": "2025-01-22T06:25:13.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 357,
+            "date": "2025-01-22T06:29:50.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 486,
+            "date": "2025-01-22T06:26:55.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 216,
+            "date": "2025-01-22T06:25:38.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 240,
+            "date": "2025-01-22T06:30:16.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T06:25:15.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 500,
+            "date": "2025-01-22T06:24:58.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1143,
+            "date": "2025-01-22T06:27:41.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 332,
+            "date": "2025-01-22T06:28:53.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 341,
+            "date": "2025-01-22T06:28:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 197,
+            "date": "2025-01-22T06:27:00.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 320,
+            "date": "2025-01-22T06:24:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 267,
+            "date": "2025-01-22T06:29:58.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 128,
+            "date": "2025-01-22T06:25:53.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 544,
+            "date": "2025-01-22T06:24:51.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T06:27:55.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T06:26:29.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 229,
+            "date": "2025-01-22T06:26:29.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 76,
+            "date": "2025-01-22T06:24:56.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1685,
+            "date": "2025-01-22T06:28:36.582Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T06:24:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T06:26:29.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 144,
+            "date": "2025-01-22T06:38:55.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 525,
+            "date": "2025-01-22T06:35:19.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T06:38:53.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 486,
+            "date": "2025-01-22T06:38:50.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 216,
+            "date": "2025-01-22T06:35:37.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 241,
+            "date": "2025-01-22T06:40:16.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 353,
+            "date": "2025-01-22T06:35:19.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T06:34:55.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1142,
+            "date": "2025-01-22T06:37:39.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-22T06:38:56.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 339,
+            "date": "2025-01-22T06:38:16.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 193,
+            "date": "2025-01-22T06:36:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 320,
+            "date": "2025-01-22T06:34:59.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 266,
+            "date": "2025-01-22T06:39:54.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 128,
+            "date": "2025-01-22T06:35:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 542,
+            "date": "2025-01-22T06:34:52.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T06:37:55.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T06:36:30.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 212,
+            "date": "2025-01-22T06:36:30.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 74,
+            "date": "2025-01-22T06:34:59.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1684,
+            "date": "2025-01-22T06:39:00.771Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 132,
+            "date": "2025-01-22T06:34:59.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T06:36:30.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 144,
+            "date": "2025-01-22T06:47:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 527,
+            "date": "2025-01-22T06:45:17.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 353,
+            "date": "2025-01-22T06:47:56.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 487,
+            "date": "2025-01-22T06:47:50.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 219,
+            "date": "2025-01-22T06:45:37.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 240,
+            "date": "2025-01-22T06:50:16.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 354,
+            "date": "2025-01-22T06:45:21.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 497,
+            "date": "2025-01-22T06:45:02.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1140,
+            "date": "2025-01-22T06:47:37.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 331,
+            "date": "2025-01-22T06:48:58.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 337,
+            "date": "2025-01-22T06:48:16.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 185,
+            "date": "2025-01-22T06:46:59.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 316,
+            "date": "2025-01-22T06:44:51.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 263,
+            "date": "2025-01-22T06:49:50.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 128,
+            "date": "2025-01-22T06:45:57.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 535,
+            "date": "2025-01-22T06:44:56.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T06:47:56.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T06:46:22.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 177,
+            "date": "2025-01-22T06:46:32.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 75,
+            "date": "2025-01-22T06:44:51.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1684,
+            "date": "2025-01-22T06:48:22.418Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 130,
+            "date": "2025-01-22T06:49:55.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T06:46:22.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 143,
+            "date": "2025-01-22T06:56:58.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 527,
+            "date": "2025-01-22T06:55:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 351,
+            "date": "2025-01-22T06:59:55.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 484,
+            "date": "2025-01-22T06:56:52.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 216,
+            "date": "2025-01-22T06:55:36.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 240,
+            "date": "2025-01-22T07:00:16.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T06:55:12.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 496,
+            "date": "2025-01-22T06:54:59.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1137,
+            "date": "2025-01-22T06:57:35.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-22T06:58:59.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-22T06:58:13.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 179,
+            "date": "2025-01-22T06:56:58.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 315,
+            "date": "2025-01-22T06:54:53.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 263,
+            "date": "2025-01-22T06:59:54.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 127,
+            "date": "2025-01-22T06:55:51.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 531,
+            "date": "2025-01-22T06:54:49.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 47,
+            "date": "2025-01-22T06:57:56.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T06:56:24.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 155,
+            "date": "2025-01-22T06:56:24.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 76,
+            "date": "2025-01-22T06:54:53.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1683,
+            "date": "2025-01-22T06:58:46.474Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T06:59:57.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 498,
+            "date": "2025-01-22T06:56:24.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 143,
+            "date": "2025-01-22T07:08:56.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 527,
+            "date": "2025-01-22T07:05:11.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 349,
+            "date": "2025-01-22T07:08:58.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 481,
+            "date": "2025-01-22T07:08:58.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 218,
+            "date": "2025-01-22T07:05:34.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 240,
+            "date": "2025-01-22T07:10:16.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T07:05:12.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 499,
+            "date": "2025-01-22T07:04:56.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1137,
+            "date": "2025-01-22T07:07:33.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 328,
+            "date": "2025-01-22T07:08:51.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 318,
+            "date": "2025-01-22T07:08:09.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 171,
+            "date": "2025-01-22T07:06:56.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 310,
+            "date": "2025-01-22T07:04:56.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 260,
+            "date": "2025-01-22T07:09:59.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 127,
+            "date": "2025-01-22T07:05:55.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 520,
+            "date": "2025-01-22T07:04:53.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 46,
+            "date": "2025-01-22T07:07:57.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 108,
+            "date": "2025-01-22T07:06:25.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 135,
+            "date": "2025-01-22T07:06:25.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 77,
+            "date": "2025-01-22T07:04:56.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1669,
+            "date": "2025-01-22T07:08:08.139Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 131,
+            "date": "2025-01-22T07:09:58.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 494,
+            "date": "2025-01-22T07:06:25.000Z"
+        }
+    },
+    {
+        "Antigone": {
+            "ouverture": "Open",
+            "place": 143,
+            "date": "2025-01-22T07:17:52.000Z"
+        },
+        "Comedie": {
+            "ouverture": "Open",
+            "place": 527,
+            "date": "2025-01-22T07:15:22.000Z"
+        },
+        "Corum": {
+            "ouverture": "Open",
+            "place": 342,
+            "date": "2025-01-22T07:17:49.000Z"
+        },
+        "Europa": {
+            "ouverture": "Open",
+            "place": 477,
+            "date": "2025-01-22T07:17:59.000Z"
+        },
+        "Foch": {
+            "ouverture": "Open",
+            "place": 89,
+            "date": "2024-10-17T15:47:46.000Z"
+        },
+        "Gambetta": {
+            "ouverture": "Open",
+            "place": 218,
+            "date": "2025-01-22T07:15:42.000Z"
+        },
+        "Gare": {
+            "ouverture": "Open",
+            "place": 240,
+            "date": "2025-01-22T07:20:16.000Z"
+        },
+        "Triangle": {
+            "ouverture": "Open",
+            "place": 355,
+            "date": "2025-01-22T07:15:17.000Z"
+        },
+        "Pitot": {
+            "ouverture": "Open",
+            "place": 494,
+            "date": "2025-01-22T07:15:03.000Z"
+        },
+        "Circe": {
+            "ouverture": "Open",
+            "place": 1129,
+            "date": "2025-01-22T07:17:29.000Z"
+        },
+        "Garcia Lorca": {
+            "ouverture": "Open",
+            "place": 329,
+            "date": "2025-01-22T07:18:52.000Z"
+        },
+        "Mosson": {
+            "ouverture": "Open",
+            "place": 305,
+            "date": "2025-01-22T07:18:17.000Z"
+        },
+        "Sabines": {
+            "ouverture": "Open",
+            "place": 166,
+            "date": "2025-01-22T07:16:51.000Z"
+        },
+        "Sablassou": {
+            "ouverture": "Open",
+            "place": 304,
+            "date": "2025-01-22T07:14:59.000Z"
+        },
+        "Saint Jean Le Sec": {
+            "ouverture": "Open",
+            "place": 258,
+            "date": "2025-01-22T07:19:54.000Z"
+        },
+        "Euromedecine": {
+            "ouverture": "Open",
+            "place": 125,
+            "date": "2025-01-22T07:15:59.000Z"
+        },
+        "Occitanie": {
+            "ouverture": "Open",
+            "place": 507,
+            "date": "2025-01-22T07:14:56.000Z"
+        },
+        "Vicarello": {
+            "ouverture": "Open",
+            "place": 46,
+            "date": "2025-01-22T07:17:58.000Z"
+        },
+        "Gaumont EST": {
+            "ouverture": "Open",
+            "place": 106,
+            "date": "2025-01-22T07:16:27.000Z"
+        },
+        "Gaumont OUEST": {
+            "ouverture": "Open",
+            "place": 126,
+            "date": "2025-01-22T07:16:27.000Z"
+        },
+        "Charles de Gaulle": {
+            "ouverture": "Open",
+            "place": 77,
+            "date": "2025-01-22T07:14:59.000Z"
+        },
+        "Polygone": {
+            "ouverture": "Open",
+            "place": 1664,
+            "date": "2025-01-22T07:18:32.162Z"
+        },
+        "Arc de Triomphe": {
+            "ouverture": "Open",
+            "place": 133,
+            "date": "2025-01-22T07:14:54.000Z"
+        },
+        "Gaumont-Circe": {
+            "ouverture": "Open",
+            "place": 489,
+            "date": "2025-01-22T07:16:27.000Z"
+        }
+    }
+]

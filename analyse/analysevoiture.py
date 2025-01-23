@@ -85,5 +85,5 @@ fig.subplots_adjust(right=0.7)
 # Afficher le graphique
 plt.show()
 
-MEF(tableaucor(chargevoiture(data)))
+MEF(data)
 
