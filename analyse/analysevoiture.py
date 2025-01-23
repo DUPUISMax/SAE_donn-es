@@ -11,7 +11,7 @@ with open('données/Voiture/placeTotal/placeTotalVoiture.json', 'r') as file:
     data3 = json.load(file)
 
 repetition = len(data)
-data2 = tempsConversion("21.01.14h00", repetition)
+data2 = tempsConversion("22.01.8h00", repetition)
 print(data2)
 # Création de l'image
 fig, axs = plt.subplots(3, 4, figsize=(14, 7))  # 3 lignes, 4 colonne
