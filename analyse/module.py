@@ -131,7 +131,7 @@ def analysecroisee (t1, t2):
 
 #fonction de mise en forme de la matrice de corrélation (je n'ai pas utilisé d'heatmap mais imshow)
 def MEF (data):
-    tableau=correlationmatrice(tableaucor(chargevoiture(data)))
+    tableau=correlationmatrice(tableaucor(data))
     fig, ax = plot.subplots()
     cax = ax.imshow(tableau, cmap='Blues')
     fig.colorbar(cax)
