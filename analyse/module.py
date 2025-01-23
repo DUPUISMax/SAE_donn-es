@@ -140,7 +140,7 @@ def MEF (data):
         for parking_name, parking_info in entry.items():
             labels.append(parking_name)
     cursor = mplcursors.cursor(cax, hover=True)
-    cursor.connect("add", lambda sel: sel.annotation.set_text(f"({sel.target[0]}, {sel.target[1]})"))
+    cursor.connect("add", lambda sel: sel.annotation.set_text(f"({labels[int(sel.target[1])]} vs {labels[int(sel.target[0])]}\nCorrélation: {tableau[int(sel.target[0])][int(sel.target[1])]}"))
     plot.show()
 
 def MEFcroisee (t1,t2):
